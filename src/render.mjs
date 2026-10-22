@@ -108,18 +108,22 @@ export function ingredientsIndexPage(config, ingredients) {
   });
 }
 
+// « de riz », « d'œuf » : élision devant une voyelle ou un h.
+const deName = (name) => (/^[aeiouyhâàéèêîôœ]/i.test(name) ? `d'${name}` : `de ${name}`);
+const plural = (n, word) => `${n} ${word}${n > 1 ? "s" : ""}`;
+
 export function ingredientPage(config, name, recipes) {
   const slug = slugify(name);
   const body = `
 <nav class="crumbs" aria-label="Fil d'Ariane"><a href="/">Accueil</a> › <a href="/ingredients/">Ingrédients</a> › ${esc(name)}</nav>
 <section class="section narrow">
-  <h1>Que faire avec ${esc(name)}&nbsp;?</h1>
+  <h1>Que faire avec un reste ${esc(deName(name))}&nbsp;?</h1>
   <p class="lead">${recipes.length} idée${recipes.length > 1 ? "s" : ""} simple${recipes.length > 1 ? "s" : ""} pour utiliser ${esc(name)} avant qu'il ne se perde.</p>
   <div class="grid">${recipes.map(card).join("\n")}</div>
 </section>`;
   return layout(config, {
-    title: `Que faire avec ${name} ? ${recipes.length} recettes faciles | ${config.name}`,
-    description: `${recipes.length} recettes rapides pour cuisiner ${name} : des idées anti-gaspi prêtes en moins de 30 minutes.`,
+    title: `Que faire avec un reste ${deName(name)} ? ${plural(recipes.length, "recette")} | ${config.name}`,
+    description: `${plural(recipes.length, "recette")} rapide${recipes.length > 1 ? "s" : ""} pour cuisiner un reste ${deName(name)} : des idées anti-gaspi prêtes en moins de 30 minutes.`,
     path: `/ingredient/${slug}/`,
     body,
     schema: [breadcrumb(config, [["Ingrédients", "/ingredients/"], [name, `/ingredient/${slug}/`]])],
