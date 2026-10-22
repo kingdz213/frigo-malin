@@ -182,11 +182,7 @@ details p { margin: 10px 0 0; color: var(--muted); }
   .fridge { padding: 16px; }
   .recipe-body { grid-template-columns: 1fr; gap: 8px; }
   .panel { position: static; }
-  .banner {
-  display: block; width: 100%; height: auto; max-height: 380px; aspect-ratio: 3 / 2; object-fit: cover;
-  border-radius: var(--radius); margin: 24px 0 0; box-shadow: var(--shadow);
-}
-.ticket { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ticket { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .ticket div:nth-child(3) { border-left: 0; }
   .ticket div:nth-child(n+3) { border-top: 1px dashed var(--line); }
 }
