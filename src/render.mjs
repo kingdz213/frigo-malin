@@ -40,7 +40,7 @@ ${schema.map(jsonLd).join("\n")}
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="top">
   <a class="logo" href="/"><span class="logo-mark" aria-hidden="true">❄</span>${esc(config.name)}</a>
-  <nav aria-label="Principal"><a href="/ingredients/">Ingrédients</a><a href="/a-propos/">À propos</a></nav>
+  <nav aria-label="Principal"><a href="/ingredients/">Ingrédients</a><a href="https://kingdz213.github.io/frigo-malin-boutique/">Boutique</a><a href="/a-propos/">À propos</a></nav>
 </header>
 <main id="contenu">
 ${body}
