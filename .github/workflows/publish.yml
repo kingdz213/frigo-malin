@@ -1,0 +1,42 @@
+# Chaque nuit : l'agent écrit une nouvelle recette, vérifie que le site se construit,
+# puis pousse le commit. Cloudflare Pages voit le push et met le site en ligne tout seul.
+name: Publication quotidienne
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # 04:17 UTC chaque jour
+  workflow_dispatch: {} # bouton « Run workflow » pour tester à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Écrire la page du jour
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PAGES_PER_RUN: ${{ vars.PAGES_PER_RUN || '1' }}
+        run: npm run agent
+      - name: Vérifier avant de publier
+        run: npm test && npm run build
+      - name: Publier
+        run: |
+          git config user.name "frigo-malin-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/
+          git diff --cached --quiet && exit 0
+          git commit -m "Nouvelle recette du $(date -u +%F)"
+          git push

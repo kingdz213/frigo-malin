@@ -1,0 +1,49 @@
+{
+  "title": "Pain perdu salé au fromage et jambon",
+  "seoTitle": "Que faire avec du pain rassis ? Pain perdu salé en 15 min",
+  "metaDescription": "Ton pain est devenu dur ? Transforme-le en pain perdu salé, doré au fromage et au jambon, prêt en 15 minutes avec ce qu'il y a au frigo.",
+  "mainIngredients": ["pain rassis", "fromage"],
+  "intro": "Le pain dur est parfait pour le pain perdu : il boit l'œuf sans s'effondrer. Version salée, c'est un vrai repas du soir avec une salade.",
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "4 tranches", "name": "pain rassis (1 à 3 jours)" },
+    { "quantity": "2", "name": "œufs" },
+    { "quantity": "10 cl", "name": "lait" },
+    { "quantity": "2 tranches", "name": "jambon cuit" },
+    { "quantity": "60 g", "name": "fromage râpé (gouda, emmental, comté)" },
+    { "quantity": "1 noix", "name": "beurre" },
+    { "quantity": "1 pincée", "name": "sel, poivre, paprika" }
+  ],
+  "steps": [
+    "Dans une assiette creuse, bats les œufs avec le lait, le sel, le poivre et le paprika.",
+    "Trempe chaque tranche de pain quelques secondes de chaque côté : elle doit être imbibée mais pas détrempée.",
+    "Fais fondre le beurre dans une poêle à feu moyen et dépose les tranches.",
+    "Après 3 minutes, retourne-les, pose une demi-tranche de jambon et le fromage sur chacune.",
+    "Couvre la poêle 3 à 4 minutes pour faire fondre le fromage, puis sers aussitôt."
+  ],
+  "tips": [
+    "Plus le pain est sec, plus il faut le laisser tremper longtemps.",
+    "Les croûtons et talons trop durs peuvent être mixés en chapelure et congelés.",
+    "Un reste de légumes grillés ou de champignons remplace très bien le jambon."
+  ],
+  "variants": [
+    "Pas de jambon : une tranche de tomate et quelques herbes.",
+    "Pas de lait : un yaourt nature dilué avec un peu d'eau."
+  ],
+  "faq": [
+    {
+      "question": "Quel pain utiliser ?",
+      "answer": "Baguette, pain de campagne, pain de mie ou brioche : tout marche, tant qu'il est rassis et pas moisi."
+    },
+    {
+      "question": "Peut-on le faire au four ?",
+      "answer": "Oui : 12 minutes à 200 °C sur une plaque recouverte de papier cuisson, en retournant à mi-cuisson."
+    }
+  ],
+  "tools": ["poêle anti-adhésive", "couvercle de poêle"],
+  "slug": "pain-perdu-sale-au-fromage-et-jambon",
+  "datePublished": "2026-10-22"
+}

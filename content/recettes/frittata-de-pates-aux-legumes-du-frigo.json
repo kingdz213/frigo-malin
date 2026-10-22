@@ -1,0 +1,48 @@
+{
+  "title": "Frittata de pâtes aux légumes du frigo",
+  "seoTitle": "Que faire avec des restes de pâtes ? Frittata en 20 min",
+  "metaDescription": "Un reste de pâtes cuites et quelques œufs suffisent pour une frittata dorée et moelleuse, à manger chaude ou froide le lendemain.",
+  "mainIngredients": ["pâtes cuites", "œuf"],
+  "intro": "En Italie, les pâtes de la veille finissent en frittata. Croustillante dessous, fondante dedans, elle accueille aussi les fonds de légumes qui traînent.",
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "250 g", "name": "pâtes cuites (spaghetti, penne…)" },
+    { "quantity": "5", "name": "œufs" },
+    { "quantity": "50 g", "name": "parmesan ou fromage râpé" },
+    { "quantity": "1 poignée", "name": "légumes restants (poivron, épinards, champignons, petits pois)" },
+    { "quantity": "1/2", "name": "oignon" },
+    { "quantity": "2 c. à soupe", "name": "huile d'olive" },
+    { "quantity": "1 pincée", "name": "sel, poivre, origan" }
+  ],
+  "steps": [
+    "Émince l'oignon et fais-le revenir 3 minutes dans 1 c. à soupe d'huile, dans une poêle de 24 cm environ. Ajoute les légumes coupés petits et laisse cuire 2 minutes.",
+    "Dans un saladier, bats les œufs avec le fromage, le sel, le poivre et l'origan. Ajoute les pâtes et le contenu de la poêle, mélange.",
+    "Remets la poêle sur feu moyen avec le reste d'huile, verse le tout et tasse avec une spatule.",
+    "Couvre et laisse cuire 8 minutes à feu doux, jusqu'à ce que les bords soient pris.",
+    "Fais glisser la frittata sur une assiette, retourne-la dans la poêle et termine 3 à 4 minutes."
+  ],
+  "tips": [
+    "Les pâtes déjà assaisonnées (sauce tomate, pesto) fonctionnent aussi : réduis alors le sel.",
+    "Coupée en carrés, elle se garde 2 jours au frigo et se glisse dans une boîte à tartines."
+  ],
+  "variants": [
+    "Pas assez d'œufs : 3 œufs + 10 cl de lait.",
+    "Pour la finir au four sans la retourner : 8 minutes à 200 °C."
+  ],
+  "faq": [
+    {
+      "question": "Comment la retourner sans tout casser ?",
+      "answer": "Utilise une assiette plus grande que la poêle, pose-la dessus, retourne d'un geste franc, puis fais glisser la frittata dans la poêle."
+    },
+    {
+      "question": "Se mange-t-elle froide ?",
+      "answer": "Oui, c'est même idéal pour un pique-nique ou un lunch le lendemain."
+    }
+  ],
+  "tools": ["poêle anti-adhésive 24 cm", "spatule en silicone"],
+  "slug": "frittata-de-pates-aux-legumes-du-frigo",
+  "datePublished": "2026-10-21"
+}

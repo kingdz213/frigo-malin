@@ -1,0 +1,18 @@
+{
+  "name": "sites-niche",
+  "private": true,
+  "type": "module",
+  "description": "Site de niche publié automatiquement par un agent IA (une page par jour).",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "agent": "node agent/write-page.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.1.0",
+    "zod": "^3.25.76"
+  }
+}

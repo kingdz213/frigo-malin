@@ -1,0 +1,52 @@
+{
+  "title": "Gratin de courgettes au riz, prêt en 30 min",
+  "seoTitle": "Que faire avec courgette et riz ? Gratin express en 30 min",
+  "metaDescription": "Une courgette qui ramollit et un reste de riz ? Ce gratin crémeux se prépare en 10 minutes et cuit pendant que tu mets la table.",
+  "mainIngredients": ["courgette", "riz"],
+  "intro": "Le classique du soir où il reste du riz de la veille et une courgette un peu molle. Tout se mélange dans le plat, le four fait le reste, et même les enfants en reprennent.",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "2", "name": "courgettes moyennes" },
+    { "quantity": "300 g", "name": "riz cuit (environ 100 g cru)" },
+    { "quantity": "2", "name": "œufs" },
+    { "quantity": "15 cl", "name": "crème fraîche ou lait" },
+    { "quantity": "80 g", "name": "fromage râpé" },
+    { "quantity": "1", "name": "gousse d'ail" },
+    { "quantity": "1 c. à soupe", "name": "huile d'olive" },
+    { "quantity": "1 pincée", "name": "noix de muscade, sel, poivre" }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C. Huile un plat à gratin moyen.",
+    "Râpe les courgettes avec la grosse râpe, sale-les légèrement et presse-les à la main au-dessus de l'évier pour retirer l'eau.",
+    "Dans un saladier, bats les œufs avec la crème, l'ail écrasé, la muscade, du sel et du poivre.",
+    "Ajoute le riz, les courgettes pressées et la moitié du fromage. Mélange bien.",
+    "Verse dans le plat, lisse le dessus et parsème du reste de fromage.",
+    "Enfourne 20 minutes, jusqu'à ce que le dessus soit doré et que le centre ne tremble plus."
+  ],
+  "tips": [
+    "Presser les courgettes est l'étape qui évite un gratin détrempé : ne la saute pas.",
+    "Le riz doit avoir été mis au frigo dans les 2 heures après cuisson et être consommé sous 24 heures.",
+    "Les restes se réchauffent très bien à la poêle, en galettes croustillantes."
+  ],
+  "variants": [
+    "Pas de crème : 20 cl de lait + 1 c. à soupe de farine délayée.",
+    "Pas de courgette : 2 carottes râpées ou une poignée d'épinards.",
+    "Pas de riz : des pâtes courtes cuites ou du quinoa."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on le préparer à l'avance ?",
+      "answer": "Oui, assemble le gratin le matin, garde-le couvert au frigo et ajoute 5 minutes de cuisson le soir."
+    },
+    {
+      "question": "Le riz doit-il être froid ?",
+      "answer": "Idéalement oui : un riz de la veille, bien égrainé, absorbe mieux l'appareil œufs-crème."
+    }
+  ],
+  "tools": ["plat à gratin", "râpe à légumes"],
+  "slug": "gratin-de-courgettes-au-riz-pret-en-30-min",
+  "datePublished": "2026-10-22"
+}
