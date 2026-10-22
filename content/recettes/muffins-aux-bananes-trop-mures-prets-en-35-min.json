@@ -1,0 +1,91 @@
+{
+  "title": "Muffins aux bananes trop mûres, prêts en 35 min",
+  "seoTitle": "Que faire avec des bananes trop mûres ? Muffins moelleux",
+  "metaDescription": "Tes bananes noircissent sur le comptoir ? Transforme-les en muffins moelleux, sans robot, avec des ingrédients de base. Prêts en 35 minutes.",
+  "mainIngredients": [
+    "banane trop mûre"
+  ],
+  "intro": "Plus la peau de la banane est tachetée, plus elle est sucrée et parfumée : c'est le moment idéal pour la cuisiner. Ces muffins se préparent dans un seul saladier et se gardent bien pour le goûter ou le petit-déjeuner.",
+  "prepMinutes": 10,
+  "cookMinutes": 22,
+  "servings": 6,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "3",
+      "name": "bananes très mûres (environ 300 g épluchées)"
+    },
+    {
+      "quantity": "1",
+      "name": "œuf"
+    },
+    {
+      "quantity": "60 g",
+      "name": "beurre fondu"
+    },
+    {
+      "quantity": "70 g",
+      "name": "sucre (cassonade ou sucre blanc)"
+    },
+    {
+      "quantity": "180 g",
+      "name": "farine"
+    },
+    {
+      "quantity": "1 cuillère à café",
+      "name": "levure chimique"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel"
+    },
+    {
+      "quantity": "1 cuillère à café",
+      "name": "cannelle (facultatif)"
+    },
+    {
+      "quantity": "50 g",
+      "name": "pépites de chocolat ou noix hachées (facultatif)"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 180 °C (chaleur tournante 160 °C) et garnis 6 moules à muffins de caissettes en papier ou beurre-les légèrement.",
+    "Dans un saladier, écrase les bananes à la fourchette jusqu'à obtenir une purée assez lisse, avec quelques petits morceaux.",
+    "Ajoute l'œuf, le beurre fondu et le sucre, puis mélange bien.",
+    "Verse la farine, la levure, le sel et la cannelle. Mélange juste assez pour que la farine disparaisse : une pâte trop travaillée donne des muffins denses.",
+    "Incorpore les pépites de chocolat ou les noix si tu en as, puis répartis la pâte dans les moules, remplis aux deux tiers.",
+    "Enfourne 20 à 24 minutes : la pointe d'un couteau plantée au centre doit ressortir sèche.",
+    "Laisse tiédir 5 minutes dans le moule avant de démouler sur une grille."
+  ],
+  "tips": [
+    "Des bananes noires et molles ne sont pas un problème tant qu'elles ne moisissent pas et ne sentent pas l'alcool ou le fermenté.",
+    "Épluche les bananes trop mûres que tu n'utilises pas tout de suite, écrase-les et congèle-les en portions de 100 g : elles se décongèlent en quelques minutes.",
+    "Les muffins se conservent 2 jours dans une boîte fermée et 2 mois au congélateur, un par un dans du papier cuisson."
+  ],
+  "variants": [
+    "Pas de beurre : remplace-le par 50 ml d'huile neutre.",
+    "Pas de sucre en quantité : 40 g suffisent si les bananes sont vraiment très mûres.",
+    "Envie d'un cake : verse la pâte dans un moule à cake beurré et cuis 40 à 45 minutes, en couvrant d'une feuille d'aluminium si le dessus brunit trop vite."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser des bananes avec la peau toute noire ?",
+      "answer": "Oui, c'est même idéal. Vérifie juste que la chair est saine : sans moisissure, sans odeur de fermenté ni de liquide qui s'écoule."
+    },
+    {
+      "question": "Comment congeler des bananes trop mûres ?",
+      "answer": "Épluche-les, écrase-les ou coupe-les en rondelles, puis congèle-les dans une boîte ou un sachet. Décongèle-les à température ambiante avant de les mélanger à la pâte."
+    },
+    {
+      "question": "Que faire s'il me reste seulement une banane ?",
+      "answer": "Écrase-la dans un bol de flocons d'avoine avec un peu de lait chaud pour un porridge sucré naturellement, ou mixe-la avec un yaourt."
+    }
+  ],
+  "tools": [
+    "moules à muffins",
+    "saladier",
+    "fourchette ou presse-purée"
+  ],
+  "slug": "muffins-aux-bananes-trop-mures-prets-en-35-min",
+  "datePublished": "2026-10-22"
+}
