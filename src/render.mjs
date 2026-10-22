@@ -47,11 +47,22 @@ ${body}
 </main>
 <footer class="foot">
   <p><strong>${esc(config.name)}</strong> — ${esc(config.tagline)}</p>
-  <p class="small">Certains liens vers des ustensiles sont des liens affiliés : nous touchons une petite commission si tu achètes, sans surcoût pour toi. <a href="/a-propos/">En savoir plus</a>.</p>
+  <p class="small">Certains liens vers des ustensiles sont des liens affiliés : nous touchons une petite commission si tu achètes, sans surcoût pour toi. <a href="/a-propos/">En savoir plus</a>. Photos : Unsplash.</p>
 </footer>
 </body>
 </html>
 `;
+}
+
+// Photos disponibles dans src/img/ (nom = slug de l'ingrédient), fournies par le build.
+let images = new Set();
+export const setImages = (set) => { images = set; };
+
+// Photo du premier ingrédient principal qui en a une ; sinon rien (le design tient sans).
+function photo(names, { cls = "", eager = false, alt = "" } = {}) {
+  const slug = names.map(slugify).find((s) => images.has(s));
+  if (!slug) return "";
+  return `<img class="${cls}" src="/img/${slug}.webp" width="800" height="533" alt="${esc(alt)}" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async">`;
 }
 
 // Étiquette d'ingrédient façon « magnet de frigo ».
@@ -61,6 +72,7 @@ const chip = (name, i = 0) =>
 function card(r) {
   return `<article class="card">
   <a href="/recette/${r.slug}/">
+    ${photo(r.mainIngredients, { cls: "card-img" })}
     <div class="card-tags">${r.mainIngredients.map((n) => `<span>${esc(n)}</span>`).join("")}</div>
     <h3>${esc(r.title)}</h3>
     <p class="meta">${minutes(r.prepMinutes + r.cookMinutes)} · ${esc(r.difficulty)} · ${r.servings} pers.</p>
@@ -71,9 +83,12 @@ function card(r) {
 export function homePage(config, recipes, ingredients) {
   const body = `
 <section class="hero">
-  <p class="eyebrow">Anti-gaspi · moins de 30 min</p>
-  <h1>Qu'est-ce qu'il te reste dans le frigo&nbsp;?</h1>
-  <p class="lead">${esc(config.description)}</p>
+  <div class="hero-text">
+    <p class="eyebrow">Anti-gaspi · moins de 30 min</p>
+    <h1>Qu'est-ce qu'il te reste dans le frigo&nbsp;?</h1>
+    <p class="lead">${esc(config.description)}</p>
+  </div>
+  ${images.has("hero") ? `<img class="hero-img" src="/img/hero.webp" width="1400" height="933" alt="Un réfrigérateur ouvert rempli de fruits et légumes frais" fetchpriority="high" decoding="async">` : ""}
   <div class="fridge" aria-label="Choisis un ingrédient">
     ${ingredients.map(([name], i) => chip(name, i)).join("\n    ")}
   </div>
@@ -117,6 +132,7 @@ export function ingredientPage(config, name, recipes) {
   const body = `
 <nav class="crumbs" aria-label="Fil d'Ariane"><a href="/">Accueil</a> › <a href="/ingredients/">Ingrédients</a> › ${esc(name)}</nav>
 <section class="section narrow">
+  ${photo([name], { cls: "banner", eager: true, alt: name })}
   <h1>Que faire avec un reste ${esc(deName(name))}&nbsp;?</h1>
   <p class="lead">${recipes.length} idée${recipes.length > 1 ? "s" : ""} simple${recipes.length > 1 ? "s" : ""} pour utiliser ${esc(name)} avant qu'il ne se perde.</p>
   <div class="grid">${recipes.map(card).join("\n")}</div>
@@ -159,6 +175,7 @@ export function recipePage(config, r, related) {
     <div class="card-tags">${r.mainIngredients.map((n) => `<a href="/ingredient/${slugify(n)}/">${esc(n)}</a>`).join("")}</div>
     <h1>${esc(r.title)}</h1>
     <p class="lead">${esc(r.intro)}</p>
+    ${photo(r.mainIngredients, { cls: "banner", eager: true, alt: r.mainIngredients.join(", ") })}
     <dl class="ticket">
       <div><dt>Préparation</dt><dd>${minutes(r.prepMinutes)}</dd></div>
       <div><dt>Cuisson</dt><dd>${minutes(r.cookMinutes)}</dd></div>

@@ -42,6 +42,8 @@ function related(recipe, recipes, n = 3) {
 export function build({ out = path.join(root, "dist"), recipes = loadRecipes() } = {}) {
   const config = JSON.parse(fs.readFileSync(path.join(root, "site.config.json"), "utf8"));
   const ingredients = groupByIngredient(recipes);
+  const imgDir = path.join(root, "src/img");
+  html.setImages(new Set(fs.existsSync(imgDir) ? fs.readdirSync(imgDir).map((f) => f.replace(/\.webp$/, "")) : []));
   const pages = new Map([
     ["/", html.homePage(config, recipes, ingredients)],
     ["/ingredients/", html.ingredientsIndexPage(config, ingredients)],
@@ -59,6 +61,7 @@ export function build({ out = path.join(root, "dist"), recipes = loadRecipes() }
   write(out, "/404.html", withBase(html.notFoundPage(config)));
   fs.copyFileSync(path.join(root, "src/style.css"), path.join(out, "style.css"));
   fs.copyFileSync(path.join(root, "src/favicon.svg"), path.join(out, "favicon.svg"));
+  if (fs.existsSync(imgDir)) fs.cpSync(imgDir, path.join(out, "img"), { recursive: true });
 
   const lastmod = (url) => recipes.find((r) => url === `/recette/${r.slug}/`)?.datePublished ?? recipes[0]?.datePublished;
   write(out, "/sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>

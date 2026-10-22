@@ -62,7 +62,17 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 20px 64px; }
 .eyebrow { text-transform: uppercase; letter-spacing: .14em; font-size: .78rem; font-weight: 600; color: var(--tomato); margin: 0 0 14px; }
 
 /* Hero : la question + le frigo d'ingrédients cliquables */
-.hero { padding: 56px 0 8px; position: relative; }
+.hero {
+  padding: 48px 0 8px; display: grid; gap: 28px 48px; align-items: center;
+  grid-template-columns: 1.05fr .95fr; grid-template-areas: "text img" "fridge fridge";
+}
+.hero-text { grid-area: text; }
+.hero-img {
+  grid-area: img; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover;
+  border-radius: 28px; box-shadow: var(--shadow); transform: rotate(1.5deg);
+  animation: rise .8s .1s cubic-bezier(.2,.7,.2,1) both;
+}
+.hero .fridge { grid-area: fridge; margin-top: 0; }
 .hero h1 { max-width: 16ch; text-wrap: balance; animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
 .hero .lead { animation: rise .7s .08s cubic-bezier(.2,.7,.2,1) both; }
 .fridge {
@@ -91,6 +101,12 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 20px 64px; }
   transition: transform .25s cubic-bezier(.2,.7,.2,1), border-color .2s;
 }
 .card a:hover { transform: translateY(-4px); border-color: var(--leaf); color: var(--ink); }
+.card a { overflow: hidden; }
+.card-img {
+  display: block; width: calc(100% + 40px); max-width: none; height: auto; aspect-ratio: 3 / 2; object-fit: cover;
+  margin: -20px -20px 16px; transition: transform .5s cubic-bezier(.2,.7,.2,1);
+}
+.card a:hover .card-img { transform: scale(1.04); }
 .card h3 { margin: 12px 0 auto; font-size: 1.2rem; }
 .card .meta { margin: 14px 0 0; color: var(--muted); font-size: .9rem; }
 .card-tags { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -104,6 +120,10 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 20px 64px; }
 .crumbs .chip { padding: 2px 10px; font-size: .85rem; animation: none; transform: none; }
 .recipe-head { margin-top: 28px; max-width: 820px; }
 .recipe-head h1 { font-size: clamp(2rem, 5vw, 3.4rem); margin-top: 14px; }
+.banner {
+  display: block; width: 100%; height: auto; max-height: 380px; aspect-ratio: 3 / 2; object-fit: cover;
+  border-radius: var(--radius); margin: 24px 0 0; box-shadow: var(--shadow);
+}
 .ticket {
   display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 26px 0 0;
   border: 1px dashed var(--line); border-radius: var(--radius); background: var(--card);
@@ -155,11 +175,17 @@ details p { margin: 10px 0 0; color: var(--muted); }
   .logo { font-size: 1.1rem; gap: 8px; }
   .logo-mark { width: 32px; height: 32px; }
   main { padding: 0 16px 48px; }
-  .hero { padding-top: 28px; }
+  .hero { padding-top: 24px; grid-template-columns: 1fr; grid-template-areas: "text" "img" "fridge"; gap: 20px; }
+  .hero-img { transform: none; border-radius: var(--radius); }
+  .banner { max-height: 240px; }
   .fridge { padding: 16px; }
   .recipe-body { grid-template-columns: 1fr; gap: 8px; }
   .panel { position: static; }
-  .ticket { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .banner {
+  display: block; width: 100%; height: auto; max-height: 380px; aspect-ratio: 3 / 2; object-fit: cover;
+  border-radius: var(--radius); margin: 24px 0 0; box-shadow: var(--shadow);
+}
+.ticket { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .ticket div:nth-child(3) { border-left: 0; }
   .ticket div:nth-child(n+3) { border-top: 1px dashed var(--line); }
 }
