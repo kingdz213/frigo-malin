@@ -11,7 +11,6 @@
 | JSON-LD Recipe + FAQPage + BreadcrumbList, sitemap, canonical | Résultats enrichis Google (étoiles/temps) = plus de clics. |
 | Pages « ingrédient » auto-générées | Maillage interne + pages qui ciblent « que faire avec X ». |
 | Animations sans opacité 0 | Le contenu reste visible pour Google et si l'animation ne joue pas. |
-| Pas de photos pour l'instant | Pas de photos réelles disponibles ; design typographique. Option : photos Unsplash libres de droits ou génération d'images par recette (à ajouter plus tard). |
 | Mention IA + affiliation sur « À propos » et en pied de page | Transparence (règles Google sur le contenu IA, obligation UE pour l'affiliation). |
 | Photos Unsplash téléchargées dans `src/img/` (licence Unsplash, crédit en pied de page) | Rendu « vrai site » ; correspondance souple ingrédient → photo ; sans photo, la carte reste propre. |
 | Empreinte de version sur `style.css` | GitHub Pages met le CSS en cache 10 min : sans ça, un changement de design n'apparaît pas tout de suite. |
