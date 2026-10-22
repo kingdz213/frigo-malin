@@ -4,36 +4,25 @@ Un site de recettes anti-gaspi (« que faire avec … ? ») qui **s'écrit tout 
 chaque nuit, un agent IA choisit un sujet, écrit une recette, la vérifie et la publie.
 Le site gagne de l'argent avec la publicité (Google AdSense) et les liens affiliés Amazon.
 
+En ligne : **https://kingdz213.github.io/frigo-malin/**
+
 ```
-GitHub Actions (chaque nuit 04:17 UTC)
-  └─ agent/write-page.mjs  → Claude écrit 1 recette → contrôle qualité
-  └─ npm test + npm run build → si tout est vert, commit + push
-Cloudflare Pages voit le push → reconstruit et met le site en ligne
+Routine Claude dans le cloud (chaque nuit 04:17 UTC = 06:17 Bruxelles)
+  └─ écrit 1 recette dans content/recettes/, lance les tests, push sur main
+GitHub Actions (à chaque push)
+  └─ npm test + npm run build → mise en ligne sur GitHub Pages
 ```
 
-## Ce que TOI seul dois faire, une seule fois (≈ 1 h)
+- Routine : https://claude.ai/code/routines/trig_01EX1BApR3szH5CxMUXShZ47 (utilise ton abonnement Claude, pas de clé API).
+- Dépôt : https://github.com/kingdz213/frigo-malin (public, nécessaire pour GitHub Pages gratuit).
+- Alternative sans routine : mets un secret GitHub `ANTHROPIC_API_KEY`, le workflow lancera `npm run agent` chaque nuit.
 
-1. **Compte GitHub** (gratuit) → crée un dépôt privé `frigo-malin`, puis pousse ce dossier :
-   ```bash
-   git remote add origin https://github.com/TON-PSEUDO/frigo-malin.git
-   ```
-   ```bash
-   git push -u origin main
-   ```
-2. **Clé API Claude** → https://console.anthropic.com → *API Keys* → crée une clé, ajoute 10 € de crédit.
-   Dans GitHub : *Settings → Secrets and variables → Actions → New repository secret* :
-   nom `ANTHROPIC_API_KEY`, valeur = ta clé. (Coût estimé : quelques centimes par recette.)
-3. **Cloudflare Pages** (gratuit) → *Workers & Pages → Create → Pages → Connect to Git* → choisis le dépôt.
-   Réglages : *Build command* `npm run build`, *Output directory* `dist`. Le site est en ligne sur `xxx.pages.dev`.
-4. **Nom de domaine** (≈ 10 €/an, optionnel au début) → achète-le chez Cloudflare Registrar, branche-le sur le projet Pages,
+## Ce qu'il reste à faire plus tard (toi seul)
+
+1. **Nom de domaine** (≈ 10 €/an, quand le site a ~30 recettes) → GitHub *Settings → Pages → Custom domain*,
    puis mets l'adresse dans `site.config.json` → `"url"`.
-5. **Google Search Console** → ajoute le site, envoie `https://ton-domaine/sitemap.xml`.
-6. **Argent** (quand le site a ~30 pages et un peu de trafic) :
-   - Amazon Partenaires (https://partenaires.amazon.fr) → mets ton identifiant dans `"amazonTag"`.
-   - Google AdSense → mets ton `ca-pub-…` dans `"adsenseClient"`.
-7. Dans GitHub → *Actions* → « Publication quotidienne » → **Run workflow** pour tester une fois.
-
-Ensuite, tu ne fais plus rien. Pour publier plus vite : variable GitHub `PAGES_PER_RUN` = 2 ou 3.
+2. **Google Search Console** → ajoute le site, envoie `sitemap.xml`.
+3. **Argent** (quand il y a du trafic) : Amazon Partenaires → `"amazonTag"` ; Google AdSense → `"adsenseClient"`.
 
 ## Commandes
 
