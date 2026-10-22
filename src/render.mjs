@@ -60,7 +60,12 @@ export const setImages = (set) => { images = set; };
 
 // Photo du premier ingrédient principal qui en a une ; sinon rien (le design tient sans).
 function photo(names, { cls = "", eager = false, alt = "" } = {}) {
-  const slug = names.map(slugify).find((s) => images.has(s));
+  // « restes-de-poulet-roti » -> photo « poulet » ; « bananes » -> « banane » (pluriel ignoré).
+  const match = (name) => {
+    const norm = `-${slugify(name).split("-").map((w) => w.replace(/s$/, "")).join("-")}-`;
+    return [...images].find((k) => k !== "hero" && norm.includes(`-${k}-`));
+  };
+  const slug = names.map(match).find(Boolean);
   if (!slug) return "";
   return `<img class="${cls}" src="/img/${slug}.webp" width="800" height="533" alt="${esc(alt)}" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async">`;
 }
