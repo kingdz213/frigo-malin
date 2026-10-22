@@ -50,9 +50,13 @@ export function build({ out = path.join(root, "dist"), recipes = loadRecipes() }
   for (const r of recipes) pages.set(`/recette/${r.slug}/`, html.recipePage(config, r, related(r, recipes)));
   for (const [name, list] of ingredients) pages.set(`/ingredient/${slugify(name)}/`, html.ingredientPage(config, name, list));
 
+  // Site servi dans un sous-dossier (ex. GitHub Pages /frigo-malin) : on préfixe les liens internes.
+  const base = new URL(config.url).pathname.replace(/\/$/, "");
+  const withBase = (page) => page.replace(/(href|src)="\//g, `$1="${base}/`);
+
   fs.rmSync(out, { recursive: true, force: true });
-  for (const [url, content] of pages) write(out, url + "index.html", content);
-  write(out, "/404.html", html.notFoundPage(config));
+  for (const [url, content] of pages) write(out, url + "index.html", withBase(content));
+  write(out, "/404.html", withBase(html.notFoundPage(config)));
   fs.copyFileSync(path.join(root, "src/style.css"), path.join(out, "style.css"));
   fs.copyFileSync(path.join(root, "src/favicon.svg"), path.join(out, "favicon.svg"));
 

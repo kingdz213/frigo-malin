@@ -1,23 +1,26 @@
-# Chaque nuit : l'agent écrit une nouvelle recette, vérifie que le site se construit,
-# puis pousse le commit. Cloudflare Pages voit le push et met le site en ligne tout seul.
+# Chaque nuit : l'agent écrit une nouvelle recette (si la clé ANTHROPIC_API_KEY existe),
+# puis le site est testé, construit et mis en ligne sur GitHub Pages.
+# Un push sur main (ex. une recette ajoutée à la main ou par une autre IA) redéploie aussi le site.
 name: Publication quotidienne
 
 on:
   schedule:
     - cron: "17 4 * * *" # 04:17 UTC chaque jour
+  push:
+    branches: [main]
   workflow_dispatch: {} # bouton « Run workflow » pour tester à la main
-
-permissions:
-  contents: write
 
 concurrency:
   group: publish
   cancel-in-progress: false
 
 jobs:
-  publish:
+  write:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -29,14 +32,42 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PAGES_PER_RUN: ${{ vars.PAGES_PER_RUN || '1' }}
-        run: npm run agent
-      - name: Vérifier avant de publier
-        run: npm test && npm run build
-      - name: Publier
         run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "Pas de clé ANTHROPIC_API_KEY : rien à écrire."; exit 0; fi
+          npm run agent
+      - name: Vérifier puis enregistrer
+        run: |
+          npm test
           git config user.name "frigo-malin-bot"
           git config user.email "bot@users.noreply.github.com"
           git add content/
           git diff --cached --quiet && exit 0
           git commit -m "Nouvelle recette du $(date -u +%F)"
           git push
+
+  deploy:
+    needs: write
+    if: always() && (needs.write.result == 'success' || needs.write.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # récupère la recette que le job « write » vient de pousser
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test && npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
