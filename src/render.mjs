@@ -32,7 +32,7 @@ export function layout(config, { title, description, path, body, schema = [] }) 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;600&display=swap">
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/style.css?v=${config.cssVersion ?? 1}">
 ${ads}
 ${schema.map(jsonLd).join("\n")}
 </head>

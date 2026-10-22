@@ -1,6 +1,7 @@
 // Construit le site statique dans dist/ à partir de content/recettes/*.json.
 // Usage : npm run build   (aucune clé requise)
 import fs from "node:fs";
+import { createHash } from "node:crypto";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { Recipe, slugify } from "./schema.mjs";
@@ -41,6 +42,8 @@ function related(recipe, recipes, n = 3) {
 
 export function build({ out = path.join(root, "dist"), recipes = loadRecipes() } = {}) {
   const config = JSON.parse(fs.readFileSync(path.join(root, "site.config.json"), "utf8"));
+  // Empreinte du CSS : chaque changement de style casse le cache des navigateurs.
+  config.cssVersion = createHash("sha1").update(fs.readFileSync(path.join(root, "src/style.css"))).digest("hex").slice(0, 8);
   const ingredients = groupByIngredient(recipes);
   const imgDir = path.join(root, "src/img");
   html.setImages(new Set(fs.existsSync(imgDir) ? fs.readdirSync(imgDir).map((f) => f.replace(/\.webp$/, "")) : []));
