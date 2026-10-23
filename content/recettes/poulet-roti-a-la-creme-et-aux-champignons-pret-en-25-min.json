@@ -1,0 +1,60 @@
+{
+  "title": "Poulet rôti à la crème et aux champignons, prêt en 25 min",
+  "seoTitle": "Que faire avec un reste de poulet rôti ? Sauce crémeuse",
+  "metaDescription": "Un reste de poulet rôti, des champignons et un peu de crème : un plat réconfortant en 25 minutes, à servir avec du riz ou des pâtes.",
+  "mainIngredients": ["poulet rôti"],
+  "intro": "Le poulet rôti du dimanche laisse toujours quelques morceaux au frigo. Réchauffés dans une sauce crémeuse aux champignons, ils retrouvent du moelleux et font un vrai repas du soir en moins de 30 minutes.",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "300 g", "name": "restes de poulet rôti, sans la peau ni les os" },
+    { "quantity": "250 g", "name": "champignons de Paris" },
+    { "quantity": "1", "name": "oignon" },
+    { "quantity": "1 gousse", "name": "d'ail" },
+    { "quantity": "1 c. à soupe", "name": "de beurre" },
+    { "quantity": "1 c. à soupe", "name": "de farine" },
+    { "quantity": "150 ml", "name": "de bouillon (ou d'eau avec un cube)" },
+    { "quantity": "10 cl", "name": "de crème fraîche épaisse" },
+    { "quantity": "1 c. à café", "name": "de moutarde" },
+    { "quantity": "1 pincée", "name": "de sel et de poivre" }
+  ],
+  "steps": [
+    "Effiloche le poulet ou coupe-le en morceaux de 2 cm. Émince l'oignon, hache l'ail et coupe les champignons en lamelles.",
+    "Fais fondre le beurre dans une sauteuse à feu moyen. Ajoute l'oignon et cuis-le 3 minutes, sans le colorer.",
+    "Ajoute les champignons et laisse-les cuire 5 minutes, jusqu'à ce que l'eau qu'ils rendent se soit évaporée. Ajoute l'ail pendant la dernière minute.",
+    "Saupoudre de farine, mélange 1 minute, puis verse le bouillon peu à peu en remuant pour éviter les grumeaux.",
+    "Ajoute la crème, la moutarde, le sel et le poivre. Laisse frémir 3 minutes pour que la sauce épaississe.",
+    "Ajoute le poulet et chauffe 4 à 5 minutes à feu doux, jusqu'à ce qu'il soit bien chaud à cœur. Goûte et rectifie l'assaisonnement.",
+    "Sers aussitôt avec du riz, des pâtes ou des pommes de terre vapeur."
+  ],
+  "tips": [
+    "Ne fais pas bouillir la sauce une fois le poulet ajouté : il resterait moelleux au lieu de devenir sec.",
+    "Garde la carcasse et les os pour faire un bouillon : mets-les dans une casserole d'eau avec un oignon et une carotte, laisse frémir 1 heure, puis utilise ce bouillon dans la recette.",
+    "Si le poulet vient d'être rôti avec des herbes ou du citron, ajoute une pincée de ces saveurs dans la sauce plutôt que de les perdre.",
+    "Consomme le poulet cuit dans les 3 jours après la cuisson et réchauffe-le une seule fois, jusqu'à ce qu'il soit bien chaud."
+  ],
+  "variants": [
+    "Pas de champignons : remplace-les par un poireau émincé ou une poignée de petits pois.",
+    "Pas de crème fraîche : utilise du fromage frais type Philadelphia ou un peu de lait avec une cuillère de plus de farine.",
+    "Pour une version plus relevée, remplace la moutarde par une cuillère de curry en poudre ajoutée avec l'oignon."
+  ],
+  "faq": [
+    {
+      "question": "Combien de temps peut-on garder un reste de poulet rôti ?",
+      "answer": "Laisse-le refroidir moins de 2 heures à température ambiante, puis garde-le au frigo, dans une boîte fermée, pendant 3 jours maximum."
+    },
+    {
+      "question": "Peut-on congeler ce plat ?",
+      "answer": "Oui, jusqu'à 2 mois dans une boîte hermétique, mais seulement si le poulet n'a pas déjà été congelé. Décongèle au frigo la veille et réchauffe jusqu'à ce que le plat soit bien chaud."
+    },
+    {
+      "question": "Comment éviter que le poulet soit sec ?",
+      "answer": "Effiloche-le en morceaux assez gros et chauffe-le seulement quelques minutes dans la sauce, à feu doux. Une cuisson longue le dessèche."
+    }
+  ],
+  "tools": ["sauteuse", "fouet ou cuillère en bois"],
+  "slug": "poulet-roti-a-la-creme-et-aux-champignons-pret-en-25-min",
+  "datePublished": "2026-10-23"
+}
