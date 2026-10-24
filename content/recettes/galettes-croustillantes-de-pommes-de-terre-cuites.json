@@ -1,0 +1,57 @@
+{
+  "title": "Galettes croustillantes de pommes de terre cuites",
+  "seoTitle": "Que faire avec des pommes de terre cuites ? Galettes",
+  "metaDescription": "Il te reste des pommes de terre cuites ? Écrase-les en galettes dorées et croustillantes, prêtes en 20 minutes avec un oignon et un peu de fromage.",
+  "mainIngredients": ["pomme de terre cuite"],
+  "intro": "Les pommes de terre cuites de la veille deviennent de belles galettes dorées en quelques minutes. C'est rapide, ça ne demande aucune course et ça accompagne aussi bien un œuf au plat qu'une salade.",
+  "prepMinutes": 10,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "400 g", "name": "pommes de terre cuites (bouillies ou vapeur), froides" },
+    { "quantity": "1", "name": "petit oignon" },
+    { "quantity": "1", "name": "œuf" },
+    { "quantity": "3 c. à soupe", "name": "farine" },
+    { "quantity": "40 g", "name": "fromage râpé (gouda, emmental)" },
+    { "quantity": "1 c. à soupe", "name": "persil ou ciboulette ciselés (facultatif)" },
+    { "quantity": "3 c. à soupe", "name": "huile de cuisson" },
+    { "quantity": "1 pincée", "name": "sel, poivre, noix de muscade" }
+  ],
+  "steps": [
+    "Écrase grossièrement les pommes de terre à la fourchette dans un saladier : il doit rester quelques morceaux pour la texture.",
+    "Émince très finement l'oignon et ajoute-le avec l'œuf, la farine, le fromage, les herbes, le sel, le poivre et la muscade. Mélange sans trop travailler la pâte.",
+    "Forme 6 galettes de 7 à 8 cm de diamètre et 1,5 cm d'épaisseur avec les mains légèrement farinées.",
+    "Chauffe l'huile dans une poêle à feu moyen-vif. Dépose les galettes sans les serrer, par fournées si besoin.",
+    "Laisse dorer 4 à 5 minutes sans les toucher, puis retourne-les délicatement et poursuis 4 minutes.",
+    "Égoutte-les sur du papier absorbant et sers aussitôt, avec une salade ou un œuf au plat."
+  ],
+  "tips": [
+    "Des pommes de terre bien froides et égouttées donnent une pâte qui tient : si elle colle, ajoute une cuillère de farine.",
+    "Garde les galettes crues 30 minutes au frigo avant la cuisson, elles se tiendront encore mieux.",
+    "Les restes de jambon, de lardons ou de légumes cuits finement hachés se glissent facilement dans la pâte.",
+    "Conserve les pommes de terre cuites au frigo au maximum 2 jours dans une boîte fermée, et consomme les galettes dans la journée."
+  ],
+  "variants": [
+    "Pas de fromage râpé : remplace-le par une cuillère de crème fraîche ou un reste de fromage frais.",
+    "Pas de farine : utilise de la chapelure ou de la maïzena.",
+    "Version relevée : ajoute une demi-cuillère de paprika fumé ou un peu de curry."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on cuire les galettes au four ?",
+      "answer": "Oui : badigeonne-les d'un peu d'huile et enfourne-les 20 minutes à 210 °C sur une plaque recouverte de papier cuisson, en les retournant à mi-cuisson."
+    },
+    {
+      "question": "Pourquoi mes galettes se défont-elles à la cuisson ?",
+      "answer": "La pâte est souvent trop humide ou la poêle pas assez chaude. Ajoute un peu de farine, laisse reposer au frais et ne retourne les galettes que lorsqu'elles sont bien dorées dessous."
+    },
+    {
+      "question": "Peut-on congeler les galettes ?",
+      "answer": "Oui, une fois cuites et refroidies, pendant 2 mois. Réchauffe-les directement à la poêle ou au four pour qu'elles retrouvent leur croustillant."
+    }
+  ],
+  "tools": ["poêle anti-adhésive", "fourchette ou presse-purée"],
+  "slug": "galettes-croustillantes-de-pommes-de-terre-cuites",
+  "datePublished": "2026-10-24"
+}
