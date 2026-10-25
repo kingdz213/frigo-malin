@@ -1,0 +1,59 @@
+{
+  "title": "Gâteau moelleux au yaourt nature, prêt en 40 min",
+  "seoTitle": "Que faire avec yaourt nature ? Gâteau moelleux en 40 min",
+  "metaDescription": "Un yaourt nature qui approche de sa date ? Ce gâteau moelleux se mesure avec le pot, se prépare en 10 minutes et cuit tout seul au four.",
+  "mainIngredients": ["yaourt nature"],
+  "intro": "Il reste un ou deux yaourts nature au fond du frigo et personne n'a envie de les manger tels quels. Ce gâteau les transforme en dessert moelleux, et le pot de yaourt sert de verre doseur : pas de balance à sortir.",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "servings": 6,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "2 pots (250 g)", "name": "yaourt nature" },
+    { "quantity": "2 pots", "name": "sucre (environ 200 g)" },
+    { "quantity": "3 pots", "name": "farine (environ 300 g)" },
+    { "quantity": "3", "name": "œufs" },
+    { "quantity": "1/2 pot", "name": "huile neutre (environ 60 ml)" },
+    { "quantity": "1 sachet (11 g)", "name": "levure chimique" },
+    { "quantity": "1", "name": "citron (zeste uniquement)" },
+    { "quantity": "1 pincée", "name": "sel" },
+    { "quantity": "1 noisette", "name": "beurre pour le moule" }
+  ],
+  "steps": [
+    "Préchauffe le four à 180 °C. Beurre et farine un moule à cake ou un moule rond de 22 cm.",
+    "Dans un saladier, mélange les yaourts, le sucre, les œufs et le zeste de citron au fouet jusqu'à obtenir une pâte lisse.",
+    "Ajoute l'huile et mélange à nouveau.",
+    "Tamise ou verse la farine, la levure et le sel par-dessus, puis mélange juste le temps d'obtenir une pâte homogène, sans trop travailler.",
+    "Verse la pâte dans le moule et lisse le dessus à la spatule.",
+    "Enfourne 30 minutes. Pique la lame d'un couteau au centre : elle doit ressortir sèche.",
+    "Laisse tiédir 10 minutes avant de démouler sur une grille."
+  ],
+  "tips": [
+    "Utilise le pot de yaourt vidé comme mesure : tout le gâteau se dose avec lui, y compris l'huile.",
+    "Un yaourt nature peut se consommer sans risque quelques jours après la date indiquée (DDM) s'il est resté fermé et au frais, mais écarte-le s'il sent mauvais ou si l'emballage est gonflé.",
+    "Si le dessus brunit trop vite, couvre le gâteau d'une feuille d'aluminium pour les 10 dernières minutes.",
+    "Le gâteau se garde 3 jours sous cloche ou dans une boîte fermée, et se congèle en tranches."
+  ],
+  "variants": [
+    "Pas de citron : 1 c. à café d'extrait de vanille ou le zeste d'une orange.",
+    "Envie de gourmandise : ajoute 100 g de pépites de chocolat ou une pomme coupée en petits dés.",
+    "Pas d'huile : remplace-la par 60 g de beurre fondu et légèrement refroidi."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser un yaourt grec ou un yaourt aux fruits ?",
+      "answer": "Oui. Avec un yaourt grec, la pâte sera un peu plus dense. Avec un yaourt sucré, réduis le sucre d'environ un quart."
+    },
+    {
+      "question": "Pourquoi mon gâteau est-il retombé ?",
+      "answer": "Le plus souvent, le four a été ouvert trop tôt ou la pâte a été trop mélangée. Attends au moins 25 minutes avant d'ouvrir la porte."
+    },
+    {
+      "question": "Peut-on le faire sans œufs ?",
+      "answer": "Ce n'est pas la même recette : les œufs structurent le gâteau. Pour un résultat réussi, garde les 3 œufs."
+    }
+  ],
+  "tools": ["moule à cake", "fouet"],
+  "slug": "gateau-moelleux-au-yaourt-nature-pret-en-40-min",
+  "datePublished": "2026-10-25"
+}
