@@ -1,0 +1,57 @@
+{
+  "title": "Soupe de carottes et lentilles, prête en 35 min",
+  "seoTitle": "Que faire avec carottes et lentilles ? Soupe en 35 min",
+  "metaDescription": "Des carottes qui ramollissent et un fond de lentilles ? Cette soupe épaisse et parfumée au cumin se prépare en 10 minutes, sans courses.",
+  "mainIngredients": ["carotte", "lentille"],
+  "intro": "Quand il reste quelques carottes au fond du bac et un sachet de lentilles corail entamé, cette soupe règle le dîner. Les lentilles fondent en cuisant et donnent un velouté épais, sans crème ni mixeur obligatoire.",
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "400 g", "name": "carottes (même ridées)" },
+    { "quantity": "150 g", "name": "lentilles corail sèches" },
+    { "quantity": "1", "name": "oignon" },
+    { "quantity": "2", "name": "gousses d'ail" },
+    { "quantity": "2 c. à soupe", "name": "huile d'olive" },
+    { "quantity": "1 c. à café", "name": "cumin moulu" },
+    { "quantity": "1,2 l", "name": "eau ou bouillon de légumes" },
+    { "quantity": "1 filet", "name": "jus de citron, sel, poivre" }
+  ],
+  "steps": [
+    "Épluche les carottes et coupe-les en rondelles de 1 cm. Émince l'oignon et l'ail.",
+    "Fais chauffer l'huile dans une casserole et fais revenir l'oignon 3 minutes à feu moyen, sans le colorer.",
+    "Ajoute l'ail et le cumin, remue 30 secondes, puis verse les carottes et les lentilles rincées.",
+    "Couvre avec l'eau ou le bouillon, sale légèrement et porte à ébullition.",
+    "Baisse le feu et laisse cuire 20 à 25 minutes, jusqu'à ce que les carottes s'écrasent à la fourchette.",
+    "Mixe en laissant quelques morceaux, ou écrase simplement à la fourchette. Ajoute un filet de citron, poivre, et rectifie le sel."
+  ],
+  "tips": [
+    "Les carottes un peu molles conviennent parfaitement : la cuisson les rend tendres de toute façon.",
+    "Garde les fanes propres ou un reste de persil pour les ciseler sur la soupe au moment de servir.",
+    "Si la soupe épaissit trop au réchauffage, allonge-la d'un peu d'eau chaude.",
+    "Elle se conserve 3 jours au frigo dans une boîte fermée et se congèle en portions."
+  ],
+  "variants": [
+    "Pas de lentilles corail : des lentilles vertes ou brunes marchent, compte 10 minutes de cuisson en plus.",
+    "Pas de cumin : du curry doux ou du paprika.",
+    "Un reste de pomme de terre ou de céleri peut remplacer une partie des carottes."
+  ],
+  "faq": [
+    {
+      "question": "Faut-il tremper les lentilles ?",
+      "answer": "Non, les lentilles corail cuisent directement. Rince-les simplement sous l'eau froide avant de les ajouter."
+    },
+    {
+      "question": "Peut-on utiliser des lentilles déjà cuites ?",
+      "answer": "Oui : compte 300 g de lentilles cuites, ajoute-les après 15 minutes de cuisson des carottes et laisse mijoter 5 minutes."
+    },
+    {
+      "question": "Comment la rendre plus onctueuse ?",
+      "answer": "Mixe-la plus longtemps et termine avec une cuillère de yaourt nature ou un filet d'huile d'olive dans l'assiette."
+    }
+  ],
+  "tools": ["casserole", "mixeur plongeant"],
+  "slug": "soupe-de-carottes-et-lentilles-prete-en-35-min",
+  "datePublished": "2026-10-26"
+}
