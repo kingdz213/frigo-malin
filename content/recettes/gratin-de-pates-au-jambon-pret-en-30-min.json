@@ -1,0 +1,58 @@
+{
+  "title": "Gratin de pâtes au jambon, prêt en 30 min",
+  "seoTitle": "Que faire avec jambon et pâtes ? Gratin express en 30 min",
+  "metaDescription": "Il reste des pâtes cuites et quelques tranches de jambon ? Ce gratin crémeux se prépare en 10 minutes et gratine au four pendant que tu mets la table.",
+  "mainIngredients": ["jambon", "pâtes"],
+  "intro": "Le dîner parfait quand il reste des pâtes de la veille et deux ou trois tranches de jambon entamées. Tout se mélange dans un plat, le four fait le reste, et personne ne devine que ce sont des restes.",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "300 g", "name": "pâtes cuites (environ 120 g crues)" },
+    { "quantity": "3 tranches", "name": "de jambon cuit (environ 100 g)" },
+    { "quantity": "20 cl", "name": "crème fraîche ou crème de cuisson" },
+    { "quantity": "2", "name": "œufs" },
+    { "quantity": "100 g", "name": "fromage râpé" },
+    { "quantity": "1", "name": "oignon" },
+    { "quantity": "1 c. à soupe", "name": "beurre" },
+    { "quantity": "1 pincée", "name": "noix de muscade, sel, poivre" }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C. Beurre un plat à gratin moyen.",
+    "Épluche l'oignon, émince-le finement et fais-le fondre 4 minutes dans le beurre à la poêle, sans le colorer.",
+    "Coupe le jambon en lanières ou en petits carrés.",
+    "Dans un saladier, bats les œufs avec la crème, la muscade, un peu de poivre et très peu de sel : le jambon et le fromage sont déjà salés.",
+    "Ajoute les pâtes, le jambon, l'oignon et la moitié du fromage. Mélange bien.",
+    "Verse dans le plat, lisse le dessus et parsème du reste de fromage.",
+    "Enfourne 20 minutes, jusqu'à ce que le dessus soit doré et que le centre ne tremble plus."
+  ],
+  "tips": [
+    "Des pâtes un peu fermes à la première cuisson tiennent mieux au four : si elles sont très molles, réduis la crème à 15 cl.",
+    "Les pâtes cuites doivent avoir été mises au frigo dans les 2 heures après cuisson et être consommées sous 24 heures.",
+    "Un reste de fromage dur qui traîne, comme un bout de gruyère ou de parmesan, se râpe très bien pour le gratin.",
+    "Les parts restantes se réchauffent à la poêle, en galettes dorées des deux côtés."
+  ],
+  "variants": [
+    "Pas de crème : 20 cl de lait + 1 c. à soupe de farine délayée.",
+    "Pas de jambon : des lardons, du poulet cuit effiloché ou un reste de saucisse tranchée.",
+    "Un légume en plus : une poignée d'épinards ou un reste de poireau cuit s'ajoutent sans rien changer au reste."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on le préparer à l'avance ?",
+      "answer": "Oui, assemble le gratin le matin, garde-le couvert au frigo et ajoute 5 minutes de cuisson le soir."
+    },
+    {
+      "question": "Combien de temps se conserve le jambon une fois la barquette ouverte ?",
+      "answer": "Suis la date indiquée sur l'emballage après ouverture, souvent 2 à 3 jours au frigo. Un jambon qui devient gluant ou sent l'aigre ne se cuisine pas."
+    },
+    {
+      "question": "Peut-on le congeler ?",
+      "answer": "Oui, en portions individuelles bien emballées, jusqu'à 2 mois. Décongèle au frigo puis réchauffe au four à 180 °C."
+    }
+  ],
+  "tools": ["plat à gratin", "poêle"],
+  "slug": "gratin-de-pates-au-jambon-pret-en-30-min",
+  "datePublished": "2026-10-27"
+}
