@@ -1,0 +1,92 @@
+{
+  "title": "Œufs cocotte aux épinards, prêts en 20 min",
+  "seoTitle": "Que faire avec épinards et œufs ? Œufs cocotte en 20 min",
+  "metaDescription": "Un reste d'épinards et quelques œufs ? Ces œufs cocotte crémeux au four se préparent en 5 minutes de travail, avec ce qu'il y a au frigo.",
+  "mainIngredients": [
+    "épinard",
+    "œuf"
+  ],
+  "intro": "Il reste une poignée d'épinards, cuits ou frais, et des œufs dans la boîte : voilà un dîner complet. Les œufs cocotte cuisent doucement au four dans un lit d'épinards à la crème, avec un jaune encore coulant pour tremper le pain.",
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "250 g",
+      "name": "épinards (frais ou cuits, même un peu tristes)"
+    },
+    {
+      "quantity": "1",
+      "name": "petit oignon ou 1 échalote"
+    },
+    {
+      "quantity": "1 noix",
+      "name": "beurre"
+    },
+    {
+      "quantity": "4 c. à soupe",
+      "name": "crème fraîche"
+    },
+    {
+      "quantity": "4",
+      "name": "œufs"
+    },
+    {
+      "quantity": "30 g",
+      "name": "fromage râpé"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "noix de muscade, sel, poivre"
+    },
+    {
+      "quantity": "2 tranches",
+      "name": "pain pour tremper (facultatif)"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 180 °C. Beurre légèrement deux ramequins ou un petit plat allant au four.",
+    "Lave les épinards et retire les grosses tiges. Émince l'oignon finement.",
+    "Fais fondre le beurre dans une poêle et fais revenir l'oignon 3 minutes à feu moyen.",
+    "Ajoute les épinards et cuis-les 3 à 4 minutes, jusqu'à ce qu'ils soient fondus et que l'eau se soit évaporée. Hors du feu, mélange avec la crème, la muscade, du sel et du poivre.",
+    "Répartis les épinards dans les ramequins et creuse un petit puits au centre de chaque. Casse-y les œufs, puis parsème de fromage râpé.",
+    "Enfourne 10 à 12 minutes : les blancs doivent être pris et totalement opaques, le jaune peut rester coulant. Prolonge de 3 minutes si tu préfères un jaune cuit.",
+    "Sers aussitôt, avec le pain grillé pour tremper."
+  ],
+  "tips": [
+    "Presse bien les épinards dans un torchon ou une passoire avant de les mettre au four : trop d'eau noie les œufs.",
+    "Des épinards surgelés conviennent : décongèle-les et essore-les fortement.",
+    "Les tiges fines se mangent aussi, hache-les et cuis-les avec l'oignon.",
+    "Les enfants, les femmes enceintes et les personnes fragiles doivent manger des œufs à blanc et jaune bien cuits : prolonge la cuisson de 5 minutes."
+  ],
+  "variants": [
+    "Pas de crème fraîche : du fromage frais type carré, ou un peu de lait avec une cuillère de farine.",
+    "Un reste de jambon ou de lardons ajoute du goût : coupe-les en petits dés et mets-les au fond des ramequins.",
+    "Pas de four : cuis le tout à couvert dans une poêle, à feu doux, 6 à 8 minutes."
+  ],
+  "faq": [
+    {
+      "question": "Comment savoir si les œufs sont cuits ?",
+      "answer": "Les blancs doivent être blancs et fermes, sans partie translucide. Le jaune, lui, peut rester coulant si tu es en bonne santé et que les œufs sont frais."
+    },
+    {
+      "question": "Peut-on préparer les ramequins à l'avance ?",
+      "answer": "Tu peux préparer les épinards à la crème jusqu'à 24 heures avant et les garder au frigo. Ajoute les œufs juste avant d'enfourner."
+    },
+    {
+      "question": "Peut-on utiliser des épinards en boîte ou surgelés ?",
+      "answer": "Oui, après les avoir bien égouttés et pressés. Compte environ 200 g de surgelés pour 250 g de frais."
+    },
+    {
+      "question": "Quel plat utiliser sans ramequin ?",
+      "answer": "Un petit plat à gratin ou même une tasse allant au four fait l'affaire. Surveille la cuisson, qui varie selon l'épaisseur."
+    }
+  ],
+  "tools": [
+    "poêle",
+    "ramequins ou petit plat à gratin"
+  ],
+  "slug": "oeufs-cocotte-aux-epinards-prets-en-20-min",
+  "datePublished": "2026-10-28"
+}
