@@ -1,0 +1,57 @@
+{
+  "title": "Chicons au jambon gratinés, prêts en 40 min",
+  "seoTitle": "Que faire avec un chicon ? Gratin au jambon en 40 min",
+  "metaDescription": "Il reste des chicons dans le bac à légumes ? Enroulés dans du jambon et gratinés sous une béchamel légère, ils se préparent en 15 minutes de travail.",
+  "mainIngredients": ["chicon"],
+  "intro": "Quand il reste quelques chicons qui commencent à se ternir, ce gratin à la belge les remet à l'honneur. Ils cuisent doucement, s'enroulent dans le jambon et finissent dorés sous le fromage. Aucune course à prévoir si tu as du lait et un reste de jambon.",
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "4", "name": "chicons" },
+    { "quantity": "4 tranches", "name": "jambon cuit" },
+    { "quantity": "40 g", "name": "beurre" },
+    { "quantity": "30 g", "name": "farine" },
+    { "quantity": "40 cl", "name": "lait" },
+    { "quantity": "80 g", "name": "fromage râpé" },
+    { "quantity": "1 c. à café", "name": "sucre" },
+    { "quantity": "1 pincée", "name": "noix de muscade, sel, poivre" }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C. Retire le trognon amer à la base de chaque chicon en creusant avec la pointe d'un couteau, puis retire les feuilles abîmées.",
+    "Fais fondre 10 g de beurre dans une poêle ou une sauteuse, ajoute les chicons entiers, le sucre, un peu de sel et 10 cl d'eau. Couvre et laisse cuire 12 minutes à feu moyen en les retournant à mi-cuisson.",
+    "Pendant ce temps, prépare la béchamel : fais fondre les 30 g de beurre restants, ajoute la farine et remue 1 minute, puis verse le lait petit à petit en fouettant.",
+    "Laisse épaissir 5 minutes à feu doux en remuant, puis assaisonne avec sel, poivre et muscade. Hors du feu, incorpore la moitié du fromage.",
+    "Égoutte et presse doucement les chicons pour éliminer l'eau. Enroule chacun dans une tranche de jambon et dépose-les dans un plat à gratin beurré.",
+    "Nappe de béchamel, parsème du reste de fromage et enfourne 15 minutes, jusqu'à ce que le dessus soit bien doré. Laisse reposer 3 minutes avant de servir."
+  ],
+  "tips": [
+    "Presse bien les chicons après cuisson : c'est ce qui évite un gratin aqueux.",
+    "Les chicons ternes ou un peu bruns à l'extérieur conviennent : retire simplement les feuilles abîmées.",
+    "Une croûte de fromage ou le fond d'un paquet de fromage râpé finit très bien sur le dessus.",
+    "Les restes se gardent 2 jours au frigo et se réchauffent 10 minutes au four."
+  ],
+  "variants": [
+    "Pas de jambon : utilise des lardons dorés à la poêle ou quelques tranches de poulet cuit.",
+    "Pas de fromage râpé : un reste de gouda, d'emmental ou de fromage à raclette coupé en petits dés fait l'affaire.",
+    "Sans lait : remplace la béchamel par 15 cl de crème et un peu d'eau de cuisson."
+  ],
+  "faq": [
+    {
+      "question": "Comment enlever l'amertume des chicons ?",
+      "answer": "Retire le trognon à la base, car c'est lui qui est le plus amer, et ajoute une petite cuillère de sucre à la cuisson."
+    },
+    {
+      "question": "Peut-on préparer le gratin à l'avance ?",
+      "answer": "Oui : monte le plat, couvre-le et garde-le au frigo jusqu'au lendemain. Ajoute 5 minutes de cuisson au four."
+    },
+    {
+      "question": "Combien de temps se conservent les chicons crus ?",
+      "answer": "Au frigo, à l'abri de la lumière dans un papier ou un sac, ils tiennent environ une semaine. La lumière les verdit et les rend plus amers."
+    }
+  ],
+  "tools": ["sauteuse avec couvercle", "plat à gratin"],
+  "slug": "chicons-au-jambon-gratines-prets-en-40-min",
+  "datePublished": "2026-10-29"
+}
