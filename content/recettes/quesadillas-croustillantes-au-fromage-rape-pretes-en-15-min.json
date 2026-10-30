@@ -1,0 +1,87 @@
+{
+  "title": "Quesadillas croustillantes au fromage râpé, prêtes en 15 min",
+  "seoTitle": "Que faire avec du fromage râpé et des tortillas ?",
+  "metaDescription": "Un fond de sachet de fromage râpé et quelques tortillas : des quesadillas dorées et filantes, prêtes en 15 minutes, sans aucune course.",
+  "mainIngredients": [
+    "fromage râpé",
+    "tortilla"
+  ],
+  "intro": "Le sachet de fromage râpé entamé et les dernières tortillas qui durcissent au fond du placard : voilà un dîner. Les quesadillas se font à la poêle, sont dorées dehors et filantes dedans, et s'adaptent à ce qu'il reste.",
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "name": "tortillas de blé (environ 20 cm)"
+    },
+    {
+      "quantity": "150 g",
+      "name": "fromage râpé (emmental, gouda, cheddar)"
+    },
+    {
+      "quantity": "1/2",
+      "name": "oignon"
+    },
+    {
+      "quantity": "1",
+      "name": "poivron ou quelques tomates, en petits dés (facultatif)"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "maïs en boîte égoutté (facultatif)"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "paprika ou cumin"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "huile"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Émince finement l'oignon et coupe le poivron en petits dés. Fais-les revenir 4 minutes dans la moitié de l'huile, dans une poêle, avec le paprika, une pincée de sel et du poivre. Verse dans une assiette.",
+    "Mélange le fromage râpé avec le maïs et les légumes refroidis quelques minutes.",
+    "Pose une tortilla à plat, répartis la moitié de la garniture sur une moitié seulement, puis replie la tortilla en demi-lune. Fais de même avec une deuxième tortilla.",
+    "Essuie la poêle, ajoute un peu d'huile et chauffe à feu moyen. Pose une quesadilla et fais-la dorer 2 à 3 minutes, en appuyant avec une spatule.",
+    "Retourne-la et laisse dorer 2 minutes de plus, jusqu'à ce que le fromage soit bien fondu. Garde-la au chaud et cuis la seconde.",
+    "Coupe chaque quesadilla en trois parts et sers aussitôt, avec une salade ou un yaourt nature assaisonné."
+  ],
+  "tips": [
+    "Cuis à feu moyen, pas fort : le fromage a le temps de fondre avant que la tortilla ne brunisse trop.",
+    "Des tortillas un peu sèches ne posent aucun problème : la chaleur de la poêle les assouplit au contact du fromage.",
+    "Mélange plusieurs fonds de fromage râpé ou des restes de tranches coupées en lanières : ça fond très bien ensemble.",
+    "Ne surcharge pas la garniture, sinon elle déborde à la cuisson et accroche à la poêle."
+  ],
+  "variants": [
+    "Avec un reste de poulet cuit ou de jambon effiloché : ajoute 80 g à la garniture.",
+    "Pas de poivron : utilise des champignons, des épinards ou une courgette en petits dés.",
+    "Pas de tortillas : deux tranches de pain de mie bien beurrées donnent un croque-monsieur à la poêle."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on les préparer à l'avance ?",
+      "answer": "Oui. Garnis les tortillas, couvre-les et garde-les au frigo jusqu'à 1 jour, puis fais-les dorer au moment de manger."
+    },
+    {
+      "question": "Comment réchauffer des quesadillas déjà cuites ?",
+      "answer": "Remets-les 2 minutes de chaque côté dans une poêle sèche ou 8 minutes au four à 180 °C. Mange-les dans les 2 jours et réchauffe-les jusqu'à ce qu'elles soient bien chaudes à cœur."
+    },
+    {
+      "question": "Quel fromage râpé choisir ?",
+      "answer": "Un fromage qui fond bien : emmental, gouda, cheddar ou mozzarella. Évite les fromages très secs seuls, comme le parmesan."
+    }
+  ],
+  "tools": [
+    "poêle anti-adhésive de 24 cm",
+    "spatule large"
+  ],
+  "slug": "quesadillas-croustillantes-au-fromage-rape-pretes-en-15-min",
+  "datePublished": "2026-10-30"
+}
