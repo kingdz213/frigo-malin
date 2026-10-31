@@ -1,0 +1,83 @@
+{
+  "title": "Velouté de poireaux et pommes de terre, prêt en 35 min",
+  "seoTitle": "Que faire avec poireau et pomme de terre ? Velouté 35 min",
+  "metaDescription": "Un poireau et quelques pommes de terre qui traînent ? Ce velouté onctueux se prépare avec peu d'ingrédients et cuit en 25 minutes.",
+  "mainIngredients": [
+    "poireau",
+    "pomme de terre"
+  ],
+  "intro": "Il reste un ou deux poireaux et des pommes de terre qui commencent à germer ? C'est la base idéale d'un velouté. Tu as tout dans le placard, une seule casserole suffit et la soupe se réchauffe très bien le lendemain.",
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "2 à 3",
+      "name": "poireaux (environ 400 g)"
+    },
+    {
+      "quantity": "400 g",
+      "name": "pommes de terre"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "20 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "1 litre",
+      "name": "eau ou bouillon de légumes"
+    },
+    {
+      "quantity": "5 cl",
+      "name": "crème fraîche ou lait (facultatif)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "noix de muscade, sel, poivre"
+    }
+  ],
+  "steps": [
+    "Coupe la base et le haut vert foncé des poireaux, fends-les en deux dans la longueur et rince-les bien sous l'eau froide pour retirer la terre, puis émince-les.",
+    "Épluche les pommes de terre et coupe-les en cubes de 2 cm. Émince l'oignon.",
+    "Fais fondre le beurre dans une grande casserole à feu moyen. Ajoute l'oignon et les poireaux, sale légèrement et fais-les suer 5 minutes sans les colorer.",
+    "Ajoute les pommes de terre et l'eau ou le bouillon. Porte à frémissement, couvre et laisse cuire 20 minutes, jusqu'à ce qu'un couteau traverse les pommes de terre sans résistance.",
+    "Mixe la soupe avec un mixeur plongeant jusqu'à obtenir une texture lisse. Ajoute un peu d'eau chaude si elle est trop épaisse.",
+    "Incorpore la crème, la muscade et du poivre, goûte et rectifie le sel. Sers bien chaud."
+  ],
+  "tips": [
+    "Garde le vert tendre des poireaux : bien lavé, il donne du goût et évite de jeter la moitié du légume.",
+    "Des pommes de terre ridées ou un peu molles conviennent très bien ; retire seulement les parties vertes ou germées.",
+    "Laisse refroidir la soupe, puis mets-la au frigo dans les 2 heures et consomme-la sous 3 jours. Elle se congèle en portions.",
+    "Quelques croûtons de pain rassis dorés au beurre transforment un reste de baguette en garniture croustillante."
+  ],
+  "variants": [
+    "Pas de crème : ajoute 1 c. à soupe de fromage frais ou un filet d'huile d'olive.",
+    "Pas de pomme de terre : remplace-la par 300 g de carottes ou de potiron.",
+    "Envie de relever : ajoute des lardons ou un reste de jambon en dés poêlés au moment de servir."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser seulement le blanc du poireau ?",
+      "answer": "Oui, mais le vert clair se mange aussi et apporte du goût. Cuis-le plus longtemps si tu gardes le vert foncé, ou mixe-le finement."
+    },
+    {
+      "question": "Comment éviter une soupe collante ?",
+      "answer": "Ne mixe pas trop longtemps et utilise un mixeur plongeant plutôt qu'un robot : mixer trop fort fait ressortir l'amidon des pommes de terre."
+    },
+    {
+      "question": "Peut-on la congeler ?",
+      "answer": "Oui, sans la crème de préférence. Congèle-la en portions et ajoute la crème au moment de réchauffer."
+    }
+  ],
+  "tools": [
+    "grande casserole",
+    "mixeur plongeant"
+  ],
+  "slug": "veloute-de-poireaux-et-pommes-de-terre-pret-en-35-min",
+  "datePublished": "2026-10-31"
+}
