@@ -1,0 +1,88 @@
+{
+  "title": "Croque-monsieur au four avec du pain de mie sec, prêt en 25 min",
+  "seoTitle": "Que faire avec du pain de mie sec ? Croques au four",
+  "metaDescription": "Ton pain de mie est devenu sec ? Transforme-le en croque-monsieur gratinés au four, avec jambon et fromage, prêts en 25 minutes.",
+  "mainIngredients": [
+    "pain de mie",
+    "pain sec"
+  ],
+  "intro": "Le pain de mie sec grille très bien : il ne devient pas mou et garde une belle croûte dorée. En croque-monsieur au four, il se transforme en repas du soir rapide, sans friture ni courses.",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "4 tranches",
+      "name": "pain de mie sec"
+    },
+    {
+      "quantity": "2 tranches",
+      "name": "jambon cuit"
+    },
+    {
+      "quantity": "80 g",
+      "name": "fromage râpé (gouda, emmental ou comté)"
+    },
+    {
+      "quantity": "20 g",
+      "name": "beurre mou"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "moutarde (facultatif)"
+    },
+    {
+      "quantity": "10 cl",
+      "name": "lait"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "farine"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel, poivre et noix de muscade"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C (chaleur tournante 180 °C) et recouvre une plaque de papier cuisson.",
+    "Beurre légèrement un côté de chaque tranche de pain de mie, puis tartine l'autre côté d'un peu de moutarde si tu en as.",
+    "Dépose 2 tranches sur la plaque, côté beurré dessous. Garnis chacune d'une tranche de jambon et de 20 g de fromage, puis ferme avec les 2 tranches restantes, côté beurré dessus.",
+    "Prépare une béchamel express : fais fondre le reste du beurre dans une petite casserole, ajoute la farine, mélange 1 minute, verse le lait peu à peu en fouettant, puis laisse épaissir 2 minutes. Sale, poivre et ajoute un peu de muscade.",
+    "Nappe le dessus des croques de béchamel et parsème du fromage râpé restant.",
+    "Enfourne 12 à 15 minutes, jusqu'à ce que le dessus soit doré et bouillonnant. Laisse reposer 2 minutes avant de servir."
+  ],
+  "tips": [
+    "Si le pain est vraiment dur comme du carton, passe-le 20 secondes à la vapeur ou badigeonne-le d'un peu de lait pour l'assouplir.",
+    "Les croûtes et chutes de pain de mie se découpent en dés et se font dorer au four pour faire des croûtons de soupe.",
+    "Un reste de béchamel ou de crème fraîche entamée remplace très bien la béchamel express.",
+    "Congèle les tranches restantes : elles se grillent directement sorties du congélateur."
+  ],
+  "variants": [
+    "Pas de jambon : une tranche de blanc de poulet cuit, quelques champignons poêlés ou des rondelles de tomate.",
+    "Pas de béchamel : une cuillère de crème fraîche épaisse mélangée à un peu de fromage râpé.",
+    "Version croque-madame : ajoute un œuf au plat bien cuit sur chaque croque au moment de servir."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser du pain de mie complètement sec ?",
+      "answer": "Oui, tant qu'il n'a aucune trace de moisissure. S'il y en a, jette toute la tranche et le reste du paquet."
+    },
+    {
+      "question": "Peut-on préparer les croques à l'avance ?",
+      "answer": "Tu peux les monter et les garder 1 jour au frigo, bien couverts, puis les enfourner au moment du repas en ajoutant 3 minutes de cuisson."
+    },
+    {
+      "question": "Comment les réchauffer le lendemain ?",
+      "answer": "Au four à 180 °C pendant 8 à 10 minutes, jusqu'à ce que le fromage soit bien chaud. Garde-les au frigo et mange-les dans les 2 jours."
+    }
+  ],
+  "tools": [
+    "plaque de cuisson",
+    "petite casserole",
+    "fouet"
+  ],
+  "slug": "croque-monsieur-au-four-avec-du-pain-de-mie-sec-pret-en-25-min",
+  "datePublished": "2026-11-01"
+}
