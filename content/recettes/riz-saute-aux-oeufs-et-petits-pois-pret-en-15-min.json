@@ -1,0 +1,86 @@
+{
+  "title": "Riz sauté aux œufs et petits pois, prêt en 15 min",
+  "seoTitle": "Que faire avec du riz cuit et des œufs ? Riz sauté 15 min",
+  "metaDescription": "Un reste de riz cuit et deux œufs suffisent pour un riz sauté parfumé, prêt en 15 minutes dans une seule poêle. Rapide et sans courses.",
+  "mainIngredients": [
+    "riz cuit",
+    "œuf"
+  ],
+  "intro": "Le riz de la veille est idéal pour un riz sauté : ses grains secs ne collent pas et dorent bien. Avec des œufs et quelques légumes, tu as un vrai repas en 15 minutes, dans une seule poêle.",
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "riz cuit, refroidi (environ 120 g de riz cru)"
+    },
+    {
+      "quantity": "3",
+      "name": "œufs"
+    },
+    {
+      "quantity": "100 g",
+      "name": "petits pois (surgelés ou restes de légumes)"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon ou 2 oignons nouveaux"
+    },
+    {
+      "quantity": "1 gousse",
+      "name": "d'ail"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "huile neutre"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "sauce soja"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Sors le riz du frigo 10 minutes avant et sépare les grains avec une fourchette. Émince l'oignon et l'ail finement.",
+    "Fais chauffer 1 c. à soupe d'huile dans une grande poêle à feu vif. Verse les œufs battus avec une pincée de sel et remue 1 minute : ils doivent être cuits et en petits morceaux. Réserve-les dans une assiette.",
+    "Remets 1 c. à soupe d'huile dans la poêle. Fais revenir l'oignon 2 minutes, ajoute l'ail et les petits pois, et laisse cuire 2 minutes en remuant.",
+    "Ajoute le riz et étale-le dans la poêle. Laisse-le dorer 2 minutes sans remuer, puis mélange et répète 2 minutes de plus.",
+    "Verse la sauce soja, remets les œufs, poivre et mélange 1 minute. Goûte avant de resaler, la sauce soja est déjà salée.",
+    "Sers aussitôt, bien chaud."
+  ],
+  "tips": [
+    "Plus le riz est sec, meilleur est le résultat : un riz fraîchement cuit colle, laisse-le d'abord refroidir et sécher.",
+    "Un fond de jambon, de poulet cuit ou de lardons à ajouter avec l'oignon transforme ce plat en repas complet.",
+    "Les petits restes de légumes (carotte, poivron, courgette) coupés en dés remplacent très bien les petits pois."
+  ],
+  "variants": [
+    "Sans sauce soja : sel, poivre et une pointe de curry ou de paprika.",
+    "Pas de petits pois : maïs, haricots verts coupés ou épinards.",
+    "Version relevée : une pincée de piment ou un filet de sauce sriracha en fin de cuisson."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser du riz cuit depuis plusieurs jours ?",
+      "answer": "Le riz cuit doit être refroidi vite (dans l'heure) et conservé au frigo, dans une boîte fermée, 24 heures maximum. Au-delà, jette-le."
+    },
+    {
+      "question": "Pourquoi mon riz sauté est-il pâteux ?",
+      "answer": "Le riz était trop humide ou la poêle pas assez chaude. Utilise du riz bien froid et sec, et cuis-le à feu vif en petite quantité."
+    },
+    {
+      "question": "Quel riz choisir ?",
+      "answer": "Un riz long type basmati ou jasmin donne des grains bien détachés, mais n'importe quel reste de riz blanc convient."
+    }
+  ],
+  "tools": [
+    "grande poêle ou wok",
+    "spatule en bois"
+  ],
+  "slug": "riz-saute-aux-oeufs-et-petits-pois-pret-en-15-min",
+  "datePublished": "2026-11-02"
+}
