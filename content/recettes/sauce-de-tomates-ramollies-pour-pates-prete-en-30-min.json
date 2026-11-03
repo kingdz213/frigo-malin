@@ -1,0 +1,92 @@
+{
+  "title": "Sauce de tomates ramollies pour pâtes, prête en 30 min",
+  "seoTitle": "Que faire avec des tomates ramollies ? Sauce en 30 min",
+  "metaDescription": "Des tomates qui ramollissent au fond du bac ? Transforme-les en sauce maison parfumée à l'ail et au basilic, prête en 30 minutes pour tes pâtes.",
+  "mainIngredients": [
+    "tomate"
+  ],
+  "intro": "Les tomates trop molles ne sont pas bonnes à croquer, mais elles sont parfaites cuites : c'est même là qu'elles sont les plus sucrées. Cette sauce se fait en une casserole avec le placard de base, et elle se congèle très bien.",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "800 g",
+      "name": "tomates bien mûres ou ramollies"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "2",
+      "name": "gousses d'ail"
+    },
+    {
+      "quantity": "3 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "sucre (si les tomates sont acides)"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "concentré de tomates (facultatif)"
+    },
+    {
+      "quantity": "1 poignée",
+      "name": "basilic frais ou 1 c. à café d'origan séché"
+    },
+    {
+      "quantity": "400 g",
+      "name": "pâtes (spaghetti ou penne)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel, poivre, parmesan ou fromage râpé pour servir"
+    }
+  ],
+  "steps": [
+    "Coupe les parties vraiment abîmées ou moisies des tomates et jette-les. Garde le reste, même s'il est mou, puis coupe les tomates en gros morceaux.",
+    "Émince finement l'oignon et l'ail. Fais chauffer l'huile dans une casserole à feu moyen et fais revenir l'oignon 5 minutes sans le colorer.",
+    "Ajoute l'ail et le concentré, remue 1 minute, puis verse les tomates, 1 c. à café de sel, du poivre et le sucre si besoin.",
+    "Laisse mijoter à couvert 15 minutes à feu doux, en écrasant les tomates à la fourchette de temps en temps.",
+    "Pendant ce temps, fais cuire les pâtes dans une grande casserole d'eau bouillante salée selon le temps indiqué sur le paquet.",
+    "Mixe la sauce pour une texture lisse, ou laisse-la en morceaux. Goûte et rectifie le sel.",
+    "Mélange les pâtes égouttées à la sauce avec une louche d'eau de cuisson, ajoute le basilic ciselé et sers avec du fromage râpé."
+  ],
+  "tips": [
+    "Ne garde que les tomates simplement molles ou ridées : une tomate moisie, fermentée ou qui sent mauvais va à la poubelle.",
+    "Pas besoin d'enlever la peau si tu mixes la sauce ; sinon, passe-la au moulin à légumes.",
+    "Congèle la sauce refroidie en portions dans des boîtes : elle se garde 3 mois et se réchauffe en 5 minutes.",
+    "Une croûte de parmesan ajoutée pendant la cuisson donne de la profondeur sans effort."
+  ],
+  "variants": [
+    "Pas de basilic : persil, thym ou une pincée d'herbes de Provence.",
+    "Pas d'oignon : un poireau ou une échalote fait très bien l'affaire.",
+    "Envie de piquant : ajoute une pincée de piment en flocons avec l'ail."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on cuisiner des tomates ridées ou toutes molles ?",
+      "answer": "Oui, tant qu'elles ne sont ni moisies ni fermentées. La cuisson les rend très goûteuses. Au moindre doute sur l'odeur ou l'aspect, ne les utilise pas."
+    },
+    {
+      "question": "Combien de temps se conserve la sauce ?",
+      "answer": "Compte 3 jours au frigo dans une boîte fermée, et 3 mois au congélateur. Réchauffe-la jusqu'à ébullition avant de servir."
+    },
+    {
+      "question": "Comment réduire l'acidité de la sauce ?",
+      "answer": "Ajoute une petite pincée de sucre, ou une carotte râpée cuite avec l'oignon. Laisse aussi mijoter quelques minutes de plus."
+    }
+  ],
+  "tools": [
+    "casserole",
+    "mixeur plongeant",
+    "grande casserole pour les pâtes"
+  ],
+  "slug": "sauce-de-tomates-ramollies-pour-pates-prete-en-30-min",
+  "datePublished": "2026-11-03"
+}
