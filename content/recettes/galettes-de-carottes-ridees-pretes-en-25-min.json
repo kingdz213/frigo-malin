@@ -1,0 +1,87 @@
+{
+  "title": "Galettes de carottes ridées, prêtes en 25 min",
+  "seoTitle": "Que faire avec des carottes ridées ? Galettes en 25 min",
+  "metaDescription": "Des carottes molles au fond du bac ? Râpées, elles font des galettes dorées et moelleuses, prêtes en 25 minutes avec trois ingrédients du placard.",
+  "mainIngredients": [
+    "carotte"
+  ],
+  "intro": "Une carotte ridée a perdu son croquant, mais pas son goût. Une fois râpée, elle fait des galettes dorées dehors et tendres dedans, parfaites pour un dîner rapide ou un lunch du lendemain.",
+  "prepMinutes": 15,
+  "cookMinutes": 10,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "de carottes ridées"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "2",
+      "name": "œufs"
+    },
+    {
+      "quantity": "4 c. à soupe",
+      "name": "de farine"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "de cumin moulu ou de paprika"
+    },
+    {
+      "quantity": "3 c. à soupe",
+      "name": "d'huile pour la cuisson"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "de persil haché ou de ciboulette (facultatif)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "de sel et de poivre"
+    }
+  ],
+  "steps": [
+    "Lave les carottes, coupe les bouts et épluche-les si la peau est très sèche. Retire les parties noires ou abîmées.",
+    "Râpe les carottes avec la grosse grille, puis presse-les dans un torchon propre pour enlever le surplus d'eau.",
+    "Épluche l'oignon et émince-le très finement.",
+    "Dans un saladier, mélange les carottes, l'oignon, les œufs, la farine, le cumin, le sel et le poivre jusqu'à obtenir une pâte épaisse.",
+    "Chauffe un peu d'huile dans une poêle à feu moyen. Dépose des petits tas de pâte et aplatis-les à la cuillère en galettes d'1 cm d'épaisseur.",
+    "Fais dorer 4 à 5 minutes de chaque côté, jusqu'à ce que le centre soit bien cuit. Ajoute de l'huile entre les fournées.",
+    "Égoutte sur du papier absorbant et sers chaud, avec du yaourt nature ou une salade."
+  ],
+  "tips": [
+    "Plus les carottes sont ridées, plus il faut les presser : l'eau en trop rend les galettes molles.",
+    "Garde les fanes et les épluchures propres pour un bouillon de légumes, elles ne partent pas à la poubelle.",
+    "Si la pâte colle trop aux doigts, ajoute une cuillère de farine ; si elle est sèche, une cuillère de lait.",
+    "Les galettes se conservent 2 jours au frigo dans une boîte fermée et se réchauffent à la poêle ou au grille-pain."
+  ],
+  "variants": [
+    "Pas de farine : de la chapelure ou des flocons d'avoine mixés font très bien l'affaire.",
+    "Un autre reste de légume : une courgette ou une pomme de terre râpée remplace la moitié des carottes.",
+    "Version fromage : ajoute 50 g de fromage râpé ou de feta émiettée dans la pâte."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on encore manger des carottes ridées ?",
+      "answer": "Oui, tant qu'elles ne sont ni visqueuses, ni moisies, ni d'odeur désagréable. Une carotte simplement molle et ridée se cuisine sans souci."
+    },
+    {
+      "question": "Peut-on cuire les galettes au four ?",
+      "answer": "Oui, sur une plaque avec du papier cuisson huilé, 20 minutes à 200 °C en les retournant à mi-cuisson. Elles seront un peu moins croustillantes."
+    },
+    {
+      "question": "Peut-on les congeler ?",
+      "answer": "Oui, une fois cuites et refroidies, jusqu'à 2 mois. Réchauffe-les directement à la poêle ou au four."
+    }
+  ],
+  "tools": [
+    "râpe",
+    "poêle anti-adhésive"
+  ],
+  "slug": "galettes-de-carottes-ridees-pretes-en-25-min",
+  "datePublished": "2026-11-04"
+}
