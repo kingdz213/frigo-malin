@@ -1,0 +1,86 @@
+{
+  "title": "Wraps au blanc de poulet cuit et au fromage frais, prêts en 15 min",
+  "seoTitle": "Que faire avec du blanc de poulet cuit ? Wraps en 15 min",
+  "metaDescription": "Un reste de blanc de poulet cuit ? Ces wraps au fromage frais, crudités et poulet effiloché se préparent en 15 minutes, sans courses compliquées.",
+  "mainIngredients": [
+    "blanc de poulet cuit"
+  ],
+  "intro": "Il reste un ou deux blancs de poulet de la veille et tu n'as pas envie de les manger secs ? Effiloché et mélangé à du fromage frais, le poulet redevient tendre. Ces wraps sont prêts en 15 minutes, parfaits pour un dîner rapide ou une boîte à tartines.",
+  "prepMinutes": 15,
+  "cookMinutes": 0,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "name": "blancs de poulet cuits (environ 250 g)"
+    },
+    {
+      "quantity": "4",
+      "name": "tortillas de blé"
+    },
+    {
+      "quantity": "100 g",
+      "name": "fromage frais type Philadelphia ou fromage blanc épais"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "moutarde"
+    },
+    {
+      "quantity": "1",
+      "name": "tomate"
+    },
+    {
+      "quantity": "4 feuilles",
+      "name": "de salade (laitue, batavia)"
+    },
+    {
+      "quantity": "1/2",
+      "name": "concombre ou 1 carotte râpée"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "jus de citron, sel, poivre"
+    }
+  ],
+  "steps": [
+    "Sors le poulet du frigo 10 minutes avant. Effiloche-le à la fourchette en fines lanières.",
+    "Dans un bol, mélange le fromage frais, la moutarde et le jus de citron. Sale légèrement et poivre.",
+    "Ajoute le poulet effiloché à la sauce et mélange bien pour qu'il soit enrobé.",
+    "Coupe la tomate en petits dés et le concombre en bâtonnets fins. Lave et sèche la salade.",
+    "Réchauffe les tortillas 20 secondes au micro-ondes ou 30 secondes par face dans une poêle sèche pour les assouplir.",
+    "Étale la garniture au poulet sur chaque tortilla, ajoute la salade et les légumes, puis roule serré en repliant les côtés. Coupe en deux et sers."
+  ],
+  "tips": [
+    "Le poulet cuit se garde 3 jours au frigo dans une boîte fermée : utilise-le dans ce délai et ne le garde pas plus longtemps.",
+    "Mélange le poulet à la sauce plutôt que de le réchauffer, il reste ainsi moelleux au lieu de sécher.",
+    "Une tortilla qui se déchire est souvent trop froide : réchauffe-la avant de rouler.",
+    "Les fonds de légumes du frigo (poivron, radis, maïs) trouvent facilement leur place dans ces wraps."
+  ],
+  "variants": [
+    "Pas de fromage frais : utilise du yaourt nature épais ou de la mayonnaise.",
+    "Pas de tortillas : sers la garniture dans du pain pita, des tartines ou sur un lit de salade.",
+    "Pour une version chaude, ajoute du fromage râpé et passe les wraps 5 minutes au four à 200 °C."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser du poulet rôti de la veille ?",
+      "answer": "Oui, retire la peau et les os, puis effiloche la chair. Elle doit avoir été conservée au frigo et être mangée dans les 3 jours."
+    },
+    {
+      "question": "Faut-il réchauffer le poulet ?",
+      "answer": "Pas pour ces wraps froids. Si tu préfères une version chaude, chauffe-le jusqu'à ce qu'il soit bien chaud à cœur, à plus de 70 °C."
+    },
+    {
+      "question": "Peut-on préparer les wraps à l'avance ?",
+      "answer": "Oui, emballe-les serrés dans du papier alu ou du film et garde-les au frigo jusqu'au lendemain. Ajoute la salade au dernier moment pour qu'elle reste croquante."
+    }
+  ],
+  "tools": [
+    "fourchette",
+    "poêle anti-adhésive"
+  ],
+  "datePublished": "2026-11-05",
+  "slug": "wraps-au-blanc-de-poulet-cuit-et-au-fromage-frais-prets-en-15-min"
+}
