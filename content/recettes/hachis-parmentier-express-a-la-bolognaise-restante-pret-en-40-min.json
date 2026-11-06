@@ -1,0 +1,86 @@
+{
+  "title": "Hachis parmentier express à la bolognaise restante, prêt en 40 min",
+  "seoTitle": "Que faire avec un reste de bolognaise ? Hachis en 40 min",
+  "metaDescription": "Il reste de la sauce bolognaise au frigo ? Transforme-la en hachis parmentier gratiné : purée maison, four chaud et un vrai repas complet en 40 minutes.",
+  "mainIngredients": [
+    "bolognaise"
+  ],
+  "intro": "Il reste deux louches de bolognaise après les spaghettis d'hier ? Elles font un hachis parmentier bien garni. La sauce déjà cuisinée apporte tout le goût, tu n'as plus qu'à préparer une purée et à gratiner le tout.",
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "reste de sauce bolognaise"
+    },
+    {
+      "quantity": "800 g",
+      "name": "pommes de terre farineuses (type Bintje)"
+    },
+    {
+      "quantity": "20 cl",
+      "name": "lait"
+    },
+    {
+      "quantity": "30 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "60 g",
+      "name": "gruyère ou fromage râpé"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "noix de muscade, sel, poivre"
+    }
+  ],
+  "steps": [
+    "Épluche les pommes de terre, coupe-les en gros cubes et plonge-les dans une casserole d'eau froide salée. Porte à ébullition et laisse cuire 15 minutes, jusqu'à ce qu'un couteau s'enfonce sans résistance.",
+    "Pendant ce temps, préchauffe le four à 210 °C. Émince l'oignon et fais-le revenir 5 minutes dans l'huile d'olive, à feu moyen.",
+    "Ajoute la bolognaise dans la poêle et réchauffe-la jusqu'à ce qu'elle bouillonne franchement. Poivre, goûte et rectifie le sel.",
+    "Égoutte les pommes de terre et écrase-les avec le beurre, le lait chaud, la muscade, du sel et du poivre, jusqu'à obtenir une purée lisse.",
+    "Verse la viande dans un plat à gratin, puis étale la purée par-dessus à la fourchette, en traçant des stries.",
+    "Parsème de fromage râpé et enfourne 15 à 20 minutes, jusqu'à ce que le dessus soit bien doré. Laisse reposer 5 minutes avant de servir."
+  ],
+  "tips": [
+    "Si la bolognaise est très liquide, laisse-la réduire quelques minutes à découvert : une sauce trop humide détrempe la purée.",
+    "Une bolognaise sortie du frigo doit être réchauffée jusqu'à ébullition avant de passer au four, et ne se réchauffe qu'une seule fois.",
+    "Il reste de la purée de la veille ? Utilise-la directement, tu gagnes 20 minutes.",
+    "Prépare deux petits plats et congèle le second avant gratinage : il se garde jusqu'à 2 mois."
+  ],
+  "variants": [
+    "Pas de pommes de terre : de la semoule cuite ou de la purée de potiron font l'affaire.",
+    "Pas de gruyère : de la mozzarella, du cheddar ou un peu de parmesan.",
+    "Pas assez de sauce : complète avec une poignée de maïs ou de petits pois pour garnir la couche de viande."
+  ],
+  "faq": [
+    {
+      "question": "Combien de temps se garde une bolognaise au frigo ?",
+      "answer": "Compte 2 à 3 jours dans une boîte fermée, au frais. Au-delà, mieux vaut la congeler dès le lendemain de la cuisson."
+    },
+    {
+      "question": "Peut-on congeler le hachis parmentier ?",
+      "answer": "Oui, avant la cuisson au four, une fois complètement refroidi. Décongèle-le au frigo la veille, puis enfourne 25 à 30 minutes."
+    },
+    {
+      "question": "Peut-on le préparer à l'avance ?",
+      "answer": "Oui, assemble-le le matin, garde-le couvert au frigo et ajoute 5 à 10 minutes de cuisson le soir."
+    }
+  ],
+  "tools": [
+    "plat à gratin",
+    "presse-purée ou fourchette"
+  ],
+  "slug": "hachis-parmentier-express-a-la-bolognaise-restante-pret-en-40-min",
+  "datePublished": "2026-11-06"
+}
