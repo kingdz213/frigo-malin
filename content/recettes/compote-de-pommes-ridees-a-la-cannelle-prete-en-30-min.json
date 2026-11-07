@@ -1,0 +1,82 @@
+{
+  "title": "Compote de pommes ridées à la cannelle, prête en 30 min",
+  "seoTitle": "Que faire avec des pommes ridées ? Compote en 30 min",
+  "metaDescription": "Des pommes ridées au fond du bac ? Transforme-les en compote tendre à la cannelle et au citron, sans courses et sans ajouter beaucoup de sucre.",
+  "mainIngredients": [
+    "pomme"
+  ],
+  "intro": "Une pomme ridée a perdu son croquant, mais pas son goût : la peau fripée cache une chair encore bien sucrée. Cuite doucement, elle devient une compote parfumée qui se prépare en une casserole et se garde plusieurs jours.",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "800 g",
+      "name": "pommes ridées (environ 6 pommes)"
+    },
+    {
+      "quantity": "1",
+      "name": "citron (jus)"
+    },
+    {
+      "quantity": "100 ml",
+      "name": "eau"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "cannelle moulue"
+    },
+    {
+      "quantity": "1 à 2 c. à soupe",
+      "name": "sucre ou cassonade (selon la douceur des pommes)"
+    },
+    {
+      "quantity": "1 noix",
+      "name": "beurre (facultatif)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel"
+    }
+  ],
+  "steps": [
+    "Lave les pommes, coupe-les en quatre et retire le cœur, les pépins et les parties brunes ou abîmées. Garde la peau si elle est propre : elle fond à la cuisson.",
+    "Coupe les quartiers en morceaux de 2 cm et arrose-les aussitôt du jus de citron pour éviter qu'ils noircissent.",
+    "Mets les pommes dans une casserole avec l'eau, la cannelle, le sucre et la pincée de sel.",
+    "Couvre et porte à frémissement, puis cuis à feu doux 15 à 20 minutes en remuant de temps en temps, jusqu'à ce que les morceaux s'écrasent sans résistance.",
+    "Retire du feu, ajoute le beurre si tu en utilises et écrase à la fourchette pour une compote rustique, ou mixe pour une texture lisse.",
+    "Goûte et ajuste avec un peu de sucre ou de citron. Laisse tiédir, puis mets en pot et garde au frigo."
+  ],
+  "tips": [
+    "Goûte les pommes avant de sucrer : plus elles sont ridées, plus elles sont sucrées, et tu peux souvent te passer de sucre.",
+    "Si une pomme a une zone abîmée, coupe-la généreusement. Jette-la entièrement si elle est moisie ou sent la fermentation.",
+    "Garde les épluchures propres et fais-les infuser dans l'eau chaude avec un bâton de cannelle pour une tisane maison.",
+    "La compote se conserve 4 jours au frigo dans un pot propre et fermé, et se congèle en portions."
+  ],
+  "variants": [
+    "Pas de cannelle : une gousse de vanille, quelques clous de girofle ou une pincée de gingembre moulu.",
+    "Pas de citron : un filet de vinaigre de cidre ou simplement un peu moins de temps de cuisson.",
+    "Mélange les pommes avec une poire molle ou une banane trop mûre pour une compote plus douce."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on manger des pommes ridées ?",
+      "answer": "Oui, tant qu'elles sont fermes sous la peau, sans moisissure ni odeur de fermenté. La peau fripée vient simplement d'une perte d'eau, et la cuisson règle la texture."
+    },
+    {
+      "question": "Faut-il éplucher les pommes ?",
+      "answer": "Non, ce n'est pas obligatoire. Si tu veux une compote bien lisse, mixe-la après cuisson ou épluche les pommes avant."
+    },
+    {
+      "question": "Comment conserver la compote plus longtemps ?",
+      "answer": "Verse-la encore chaude dans des bocaux propres, ferme-les et garde-les au frigo. Pour plus longtemps, congèle-la en portions individuelles."
+    }
+  ],
+  "tools": [
+    "casserole",
+    "fourchette ou mixeur plongeant"
+  ],
+  "slug": "compote-de-pommes-ridees-a-la-cannelle-prete-en-30-min",
+  "datePublished": "2026-11-07"
+}
