@@ -1,0 +1,86 @@
+{
+  "title": "Pâtes à la crème fraîche entamée, citron et parmesan, prêtes en 20 min",
+  "seoTitle": "Que faire avec de la crème fraîche entamée ? Pâtes 20 min",
+  "metaDescription": "Un pot de crème fraîche entamé au frigo ? Ces pâtes crémeuses au citron et au parmesan se préparent en 20 minutes, avec trois fois rien.",
+  "mainIngredients": [
+    "crème fraîche"
+  ],
+  "intro": "Il reste un fond de pot de crème fraîche et tu ne sais pas comment l'utiliser avant la date limite ? Cette sauce se fait pendant la cuisson des pâtes, sans courses ni matériel particulier. C'est le dîner rapide des soirs où le frigo est presque vide.",
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "200 g",
+      "name": "pâtes (tagliatelles ou spaghetti)"
+    },
+    {
+      "quantity": "150 g",
+      "name": "crème fraîche entamée (épaisse ou liquide)"
+    },
+    {
+      "quantity": "1",
+      "name": "citron non traité"
+    },
+    {
+      "quantity": "40 g",
+      "name": "parmesan ou reste de fromage râpé"
+    },
+    {
+      "quantity": "1",
+      "name": "gousse d'ail"
+    },
+    {
+      "quantity": "10 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "petits pois ou jambon en dés (facultatif)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel, poivre, muscade"
+    }
+  ],
+  "steps": [
+    "Porte une grande casserole d'eau salée à ébullition et fais cuire les pâtes selon le temps indiqué sur le paquet, moins 1 minute.",
+    "Pendant ce temps, lave le citron, râpe finement la moitié du zeste et presse le jus de la moitié du fruit. Râpe le parmesan et écrase la gousse d'ail.",
+    "Fais fondre le beurre dans une grande poêle à feu doux, ajoute l'ail et fais-le revenir 30 secondes sans le colorer.",
+    "Ajoute la crème fraîche, le zeste, un peu de poivre et une pincée de muscade. Remue jusqu'à ce que la crème soit lisse et chaude, sans la faire bouillir.",
+    "Égoutte les pâtes en gardant un verre d'eau de cuisson. Verse-les dans la poêle avec les petits pois ou le jambon, puis mélange 1 minute en ajoutant un peu d'eau de cuisson pour détendre la sauce.",
+    "Éteins le feu, ajoute le parmesan et 1 à 2 c. à soupe de jus de citron. Goûte, rectifie le sel et sers aussitôt."
+  ],
+  "tips": [
+    "Vérifie la crème : elle doit sentir bon, sans odeur aigre ni moisissure. Un pot ouvert se garde environ 3 à 5 jours au frigo, bien fermé.",
+    "Ajoute le jus de citron hors du feu : sur une crème trop chaude, la sauce risque de tourner.",
+    "Garde l'eau de cuisson : son amidon rend la sauce plus onctueuse sans ajouter de matière grasse.",
+    "Il reste un fond de pot trop petit ? Gratte bien les parois avec une cuillère, ou rince-le avec un peu d'eau de cuisson chaude pour récupérer le reste."
+  ],
+  "variants": [
+    "Pas de citron : remplace-le par 1 c. à café de moutarde de Dijon pour une sauce plus relevée.",
+    "Pas de parmesan : utilise du gruyère, du comté ou n'importe quel reste de fromage râpé.",
+    "Envie de plus consistant : ajoute des champignons poêlés ou un reste de poulet cuit en morceaux."
+  ],
+  "faq": [
+    {
+      "question": "Quelle crème fraîche choisir ?",
+      "answer": "Épaisse ou liquide, les deux conviennent. Avec une crème épaisse, détends simplement la sauce avec un peu d'eau de cuisson."
+    },
+    {
+      "question": "Pourquoi ma sauce est-elle granuleuse ?",
+      "answer": "La crème a sans doute trop chauffé ou le citron a été ajouté trop tôt. Cuis à feu doux et ajoute le citron en fin de recette, hors du feu."
+    },
+    {
+      "question": "Peut-on réchauffer ce plat ?",
+      "answer": "Oui, dans les 24 heures et à feu doux avec une cuillère d'eau ou de lait. Conserve-le au frigo dans les 2 heures après la cuisson."
+    }
+  ],
+  "tools": [
+    "grande poêle",
+    "râpe fine"
+  ],
+  "slug": "pates-a-la-creme-fraiche-entamee-citron-et-parmesan-pretes-en-20-min",
+  "datePublished": "2026-11-08"
+}
