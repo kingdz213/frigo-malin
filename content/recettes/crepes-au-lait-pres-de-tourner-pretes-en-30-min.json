@@ -1,0 +1,58 @@
+{
+  "title": "Crêpes au lait près de tourner, prêtes en 30 min",
+  "seoTitle": "Que faire avec du lait qui va tourner ? Crêpes en 30 min",
+  "metaDescription": "Un fond de lait qui approche de la date limite ? Ces crêpes simples l'utilisent en entier, avec des astuces pour savoir quand le lait est encore bon.",
+  "mainIngredients": ["lait"],
+  "intro": "Le lait ouvert depuis quelques jours, dont la date approche, finit trop souvent dans l'évier. Cette pâte à crêpes en demande 50 cl, se prépare en dix minutes et se garde bien pour le lendemain.",
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "250 g", "name": "farine" },
+    { "quantity": "3", "name": "œufs" },
+    { "quantity": "50 cl", "name": "lait encore sain à l'odeur et au goût" },
+    { "quantity": "1 c. à soupe", "name": "sucre" },
+    { "quantity": "1 pincée", "name": "sel" },
+    { "quantity": "30 g", "name": "beurre fondu" },
+    { "quantity": "1 c. à café", "name": "huile pour la poêle" },
+    { "quantity": "1", "name": "sachet de sucre vanillé (facultatif)" }
+  ],
+  "steps": [
+    "Sens et goûte une gorgée du lait : s'il a une odeur aigre, des grumeaux ou un goût acide, jette-le. S'il est simplement près de la date, fais-le bouillir 1 minute puis laisse-le tiédir.",
+    "Dans un saladier, mélange la farine, le sucre, le sel et le sucre vanillé.",
+    "Creuse un puits, casse les œufs dedans et fouette en incorporant la farine peu à peu.",
+    "Ajoute le lait tiède petit à petit en fouettant pour éviter les grumeaux, puis le beurre fondu.",
+    "Laisse reposer la pâte 10 minutes pendant que tu chauffes la poêle.",
+    "Huile légèrement la poêle chaude, verse une petite louche de pâte et incline pour l'étaler. Cuis 1 minute et demie par face, jusqu'à ce que les bords dorent.",
+    "Empile les crêpes sur une assiette et garde-les au chaud sous un second plat retourné."
+  ],
+  "tips": [
+    "Un lait qui commence à tourner a un goût acide : utilisé en pâtisserie, il fait des crêpes plus moelleuses, mais seulement s'il est encore sain, jamais s'il est caillé ou malodorant.",
+    "Fais bouillir le lait 1 minute avant de l'utiliser s'il a dépassé de peu la date : ça le stabilise le temps de la recette.",
+    "Si la pâte est trop épaisse, ajoute un filet d'eau plutôt que de reprendre du lait.",
+    "Les crêpes se congèlent séparées par du papier cuisson, jusqu'à 2 mois."
+  ],
+  "variants": [
+    "Pas de beurre : 2 c. à soupe d'huile neutre.",
+    "Version salée : supprime le sucre et garnis de jambon et de fromage râpé.",
+    "Pas de lait entier : du lait demi-écrémé convient, ou moitié lait, moitié eau."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on cuisiner avec du lait caillé ?",
+      "answer": "Un lait caillé spontanément ou qui sent mauvais ne doit pas être consommé. Seul un lait simplement proche de la date, à l'odeur et au goût normaux, convient."
+    },
+    {
+      "question": "Combien de temps se garde la pâte ?",
+      "answer": "Jusqu'à 24 heures au frigo, dans un récipient couvert. Fouette-la avant de l'utiliser, elle peut avoir un peu décanté."
+    },
+    {
+      "question": "Combien de temps se conservent les crêpes cuites ?",
+      "answer": "2 jours au frigo bien emballées, à réchauffer à la poêle ou au micro-ondes."
+    }
+  ],
+  "tools": ["poêle anti-adhésive", "fouet"],
+  "slug": "crepes-au-lait-pres-de-tourner-pretes-en-30-min",
+  "datePublished": "2026-11-09"
+}
