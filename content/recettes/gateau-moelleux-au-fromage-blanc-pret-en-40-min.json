@@ -1,0 +1,87 @@
+{
+  "title": "Gâteau moelleux au fromage blanc, prêt en 40 min",
+  "seoTitle": "Que faire avec du fromage blanc ? Gâteau en 40 min",
+  "metaDescription": "Un pot de fromage blanc entamé ? Ce gâteau moelleux au citron se prépare en 10 minutes avec les produits du placard, sans courses.",
+  "mainIngredients": [
+    "fromage blanc"
+  ],
+  "intro": "Il reste un pot de fromage blanc au fond du frigo et la date approche ? Ce gâteau le transforme en une mie tendre et légèrement acidulée. Il se prépare en un seul saladier, avec ce que tu as déjà dans le placard.",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "servings": 6,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "250 g",
+      "name": "fromage blanc nature (même un pot entamé)"
+    },
+    {
+      "quantity": "3",
+      "name": "oeufs"
+    },
+    {
+      "quantity": "120 g",
+      "name": "sucre"
+    },
+    {
+      "quantity": "200 g",
+      "name": "farine"
+    },
+    {
+      "quantity": "1 sachet (11 g)",
+      "name": "levure chimique"
+    },
+    {
+      "quantity": "80 ml",
+      "name": "huile neutre"
+    },
+    {
+      "quantity": "1",
+      "name": "citron (zeste et 2 c. à soupe de jus)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 180 °C (chaleur tournante 160 °C). Beurre et farine un moule à cake ou tapisse-le de papier cuisson.",
+    "Dans un saladier, fouette les oeufs avec le sucre pendant 2 minutes, jusqu'à ce que le mélange blanchisse légèrement.",
+    "Ajoute le fromage blanc, l'huile, le zeste râpé et le jus du citron. Mélange jusqu'à obtenir une crème lisse.",
+    "Mélange la farine, la levure et le sel, puis incorpore-les d'un coup à la préparation. Remue juste assez pour ne plus voir de farine.",
+    "Verse la pâte dans le moule et lisse la surface avec le dos d'une cuillère.",
+    "Enfourne 30 minutes. Le gâteau est cuit quand la lame d'un couteau ressort sèche.",
+    "Laisse tiédir 10 minutes dans le moule, puis démoule sur une grille avant de couper."
+  ],
+  "tips": [
+    "Un fromage blanc qui approche de sa date ou légèrement plus liquide convient très bien, tant qu'il sent bon et n'a pas de moisissure.",
+    "Utilise le pot vide pour mesurer : un pot de 125 g de yaourt rempli de farine fait environ 70 g, ce qui évite de sortir la balance.",
+    "Si le dessus brunit trop vite, pose une feuille d'aluminium dessus pour les 10 dernières minutes.",
+    "Le gâteau se garde 3 jours sous cloche ou dans une boîte fermée, et il se congèle en tranches."
+  ],
+  "variants": [
+    "Pas de citron : une cuillère à café d'extrait de vanille ou de cannelle fait l'affaire.",
+    "Un reste de fruits (pommes, poires ou framboises) coupé en petits morceaux peut être ajouté à la pâte.",
+    "Fromage blanc à 0 % : ajoute une cuillère à soupe d'huile en plus pour garder le moelleux."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser du fromage blanc battu ou du skyr ?",
+      "answer": "Oui, les deux marchent à poids égal. La texture sera un peu plus dense avec du skyr, mais le résultat reste moelleux."
+    },
+    {
+      "question": "Peut-on le faire sans huile ?",
+      "answer": "Remplace l'huile par 80 g de beurre fondu et légèrement refroidi. Le goût sera plus rond et la mie un peu plus ferme."
+    },
+    {
+      "question": "Jusqu'à quand peut-on utiliser un fromage blanc entamé ?",
+      "answer": "Un pot ouvert se garde environ 3 jours au frigo, bien refermé. Au-delà, ou s'il sent le rance ou présente des moisissures, jette-le."
+    }
+  ],
+  "tools": [
+    "moule à cake",
+    "saladier"
+  ],
+  "slug": "gateau-moelleux-au-fromage-blanc-pret-en-40-min",
+  "datePublished": "2026-11-10"
+}
