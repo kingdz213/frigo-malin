@@ -1,0 +1,87 @@
+{
+  "title": "Gratin de chou-fleur à la béchamel, prêt en 40 min",
+  "seoTitle": "Que faire avec du chou-fleur ? Gratin crémeux en 40 min",
+  "metaDescription": "Un reste de chou-fleur au frigo ? Ce gratin à la béchamel et au fromage râpé se prépare avec peu d'ingrédients et finit doré au four en 25 minutes.",
+  "mainIngredients": [
+    "chou-fleur"
+  ],
+  "intro": "Il reste un demi-chou-fleur ou quelques fleurettes qui commencent à jaunir sur les bords ? Le gratin est la meilleure façon de les finir. Une sauce blanche, du fromage râpé, un passage au four : tu as tout dans le placard et même les sceptiques en reprennent.",
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "600 g",
+      "name": "chou-fleur (environ 1 petit chou ou un reste de chou)"
+    },
+    {
+      "quantity": "30 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "30 g",
+      "name": "farine"
+    },
+    {
+      "quantity": "40 cl",
+      "name": "lait"
+    },
+    {
+      "quantity": "80 g",
+      "name": "fromage râpé (gouda, emmental ou reste de fromage)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "noix de muscade"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "chapelure ou pain rassis émietté (facultatif)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C. Coupe le chou-fleur en petites fleurettes de taille similaire et rince-les. Garde aussi la tige : épluche-la et coupe-la en petits dés.",
+    "Plonge les fleurettes et la tige dans une grande casserole d'eau bouillante salée et cuis-les 8 minutes : elles doivent rester légèrement fermes. Égoutte-les bien et laisse-les sécher quelques minutes dans la passoire.",
+    "Pendant ce temps, fais fondre le beurre dans une casserole à feu moyen. Ajoute la farine d'un coup et mélange 1 minute au fouet sans colorer.",
+    "Verse le lait froid en 3 fois en fouettant entre chaque ajout. Laisse épaissir 5 minutes à feu doux, en remuant, jusqu'à obtenir une sauce qui nappe la cuillère. Sale, poivre et ajoute la muscade.",
+    "Hors du feu, incorpore les deux tiers du fromage râpé dans la sauce jusqu'à ce qu'il soit fondu.",
+    "Beurre un plat à gratin, dispose le chou-fleur bien égoutté, puis nappe-le de sauce. Parsème du reste de fromage et de chapelure.",
+    "Enfourne 20 à 25 minutes, jusqu'à ce que le dessus soit bien doré et que la sauce bouillonne sur les bords. Laisse reposer 5 minutes avant de servir."
+  ],
+  "tips": [
+    "Égoutte très bien le chou-fleur : l'eau qui reste dans le plat rend la sauce liquide.",
+    "Ne jette pas les feuilles tendres ni la tige : cuites avec les fleurettes, elles se mangent très bien.",
+    "Un chou-fleur avec quelques taches brunes se récupère : coupe simplement les parties abîmées au couteau.",
+    "Les restes de fromage secs au fond du frigo se râpent et remplacent sans problème le gouda."
+  ],
+  "variants": [
+    "Pas de béchamel : mélange 20 cl de crème fraîche avec 1 œuf battu, du sel et de la muscade, et verse sur les fleurettes.",
+    "Pas de chapelure : émiette une croûte de pain rassis ou écrase quelques biscottes.",
+    "Pour un plat plus complet, ajoute des dés de jambon ou de lardons poêlés entre les fleurettes."
+  ],
+  "faq": [
+    {
+      "question": "Faut-il précuire le chou-fleur avant de le gratiner ?",
+      "answer": "Oui. 8 minutes à l'eau bouillante suffisent pour qu'il soit tendre après le four tout en gardant une bonne tenue. Cru, il rendrait de l'eau et resterait croquant."
+    },
+    {
+      "question": "Comment éviter l'odeur forte pendant la cuisson ?",
+      "answer": "Cuis-le à découvert, sans le laisser bouillir trop longtemps, et ne dépasse pas 8 à 10 minutes. Plus il cuit, plus l'odeur se renforce."
+    },
+    {
+      "question": "Combien de temps se garde le gratin ?",
+      "answer": "Une fois refroidi, mets-le au frigo dans les 2 heures et consomme-le sous 2 jours. Réchauffe-le jusqu'à ce qu'il soit bien chaud à cœur."
+    }
+  ],
+  "tools": [
+    "plat à gratin",
+    "fouet"
+  ],
+  "slug": "gratin-de-chou-fleur-a-la-bechamel-pret-en-40-min",
+  "datePublished": "2026-11-11"
+}
