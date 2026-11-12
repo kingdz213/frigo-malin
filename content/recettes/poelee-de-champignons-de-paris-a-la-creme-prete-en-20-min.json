@@ -1,0 +1,86 @@
+{
+  "title": "Poêlée de champignons de Paris à la crème, prête en 20 min",
+  "seoTitle": "Que faire avec champignons de Paris ? Poêlée en 20 min",
+  "metaDescription": "Des champignons de Paris qui brunissent au fond du bac ? Cette poêlée crémeuse à l'ail et au persil se fait en 20 minutes, avec trois fois rien.",
+  "mainIngredients": [
+    "champignon de paris"
+  ],
+  "intro": "Quand il reste une barquette de champignons de Paris un peu brunis, il vaut mieux les cuisiner vite. Cette poêlée à la crème se sert sur des tartines, des pâtes ou du riz, et elle sauve le dîner en 20 minutes.",
+  "prepMinutes": 8,
+  "cookMinutes": 12,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "champignons de Paris"
+    },
+    {
+      "quantity": "1",
+      "name": "échalote ou petit oignon"
+    },
+    {
+      "quantity": "1",
+      "name": "gousse d'ail"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "beurre"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "10 cl",
+      "name": "crème fraîche ou crème liquide"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "persil haché (ou ciboulette)"
+    },
+    {
+      "quantity": "1 filet",
+      "name": "jus de citron, sel, poivre"
+    }
+  ],
+  "steps": [
+    "Essuie les champignons avec un papier humide, sans les laisser tremper. Coupe les pieds abîmés, puis tranche-les en lamelles de 5 mm.",
+    "Émince finement l'échalote et l'ail.",
+    "Fais chauffer l'huile dans une grande poêle à feu vif. Ajoute les champignons en une seule couche, sans remuer pendant 2 minutes, pour qu'ils dorent.",
+    "Remue, laisse cuire 5 à 6 minutes jusqu'à ce que l'eau soit évaporée, puis sale légèrement.",
+    "Baisse à feu moyen, ajoute le beurre et l'échalote, et fais cuire 2 minutes. Ajoute l'ail pour les 30 dernières secondes.",
+    "Verse la crème, laisse bouillonner 2 minutes pour qu'elle épaississe, puis ajoute le persil, le citron et le poivre. Goûte et rectifie le sel."
+  ],
+  "tips": [
+    "Les champignons un peu bruns ou fripés conviennent très bien, tant qu'ils ne sont ni gluants ni malodorants.",
+    "Ne les lave pas à grande eau : ils boivent l'eau et rendent ensuite de la vapeur au lieu de dorer.",
+    "Cuis-les en deux fois si ta poêle est petite : trop serrés, ils bouillent au lieu de griller.",
+    "Les pieds coupés peuvent finir dans une soupe ou un bouillon de légumes."
+  ],
+  "variants": [
+    "Pas de crème : un reste de fromage frais à tartiner ou 2 c. à soupe de lait avec une cuillère de farine.",
+    "Un reste de jambon ou de lardons ajoute du goût dans la poêle en même temps que l'échalote.",
+    "Pas de persil : de la ciboulette, du thym ou une pincée d'herbes de Provence."
+  ],
+  "faq": [
+    {
+      "question": "Comment savoir si mes champignons sont encore bons ?",
+      "answer": "Ils doivent rester fermes et sentir bon la terre. S'ils sont visqueux, collants ou ont une odeur désagréable, jette-les."
+    },
+    {
+      "question": "Peut-on congeler cette poêlée ?",
+      "answer": "Mieux vaut congeler les champignons cuits sans la crème, en boîte, jusqu'à 3 mois. Ajoute la crème au moment de réchauffer."
+    },
+    {
+      "question": "Avec quoi la servir ?",
+      "answer": "Sur du pain grillé, avec des pâtes, du riz, des pommes de terre vapeur ou en garniture d'une omelette."
+    }
+  ],
+  "tools": [
+    "grande poêle",
+    "planche et couteau"
+  ],
+  "slug": "poelee-de-champignons-de-paris-a-la-creme-prete-en-20-min",
+  "datePublished": "2026-11-12"
+}
