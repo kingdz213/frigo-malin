@@ -1,0 +1,88 @@
+{
+  "title": "Gratin de brocoli au fromage, prêt en 35 min",
+  "seoTitle": "Que faire avec brocoli et fromage ? Gratin en 35 min",
+  "metaDescription": "Un reste de brocoli et des fonds de fromage ? Ce gratin crémeux et doré au four se prépare en 15 minutes, avec ce qu'il y a déjà dans le frigo.",
+  "mainIngredients": [
+    "brocoli",
+    "fromage"
+  ],
+  "intro": "Il reste la moitié d'un brocoli et quelques morceaux de fromage qui sèchent dans leur emballage ? Ce gratin les réunit sous une sauce blanche simple. C'est un plat du soir rassasiant, à servir seul ou avec du pain.",
+  "prepMinutes": 15,
+  "cookMinutes": 20,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "500 g",
+      "name": "brocoli (tiges comprises)"
+    },
+    {
+      "quantity": "150 g",
+      "name": "fromage râpé ou en fonds de frigo (gouda, emmental, cheddar)"
+    },
+    {
+      "quantity": "30 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "30 g",
+      "name": "farine"
+    },
+    {
+      "quantity": "40 cl",
+      "name": "lait"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "noix de muscade"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "chapelure ou pain rassis émietté"
+    },
+    {
+      "quantity": "1",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C. Découpe le brocoli en petits bouquets et pèle les tiges avant de les couper en bâtonnets de 1 cm.",
+    "Cuis les bouquets et les tiges 5 minutes dans une casserole d'eau bouillante salée. Égoutte-les bien et dépose-les dans un plat à gratin beurré.",
+    "Fais fondre le beurre dans la casserole, ajoute la farine et remue 1 minute à feu moyen.",
+    "Verse le lait en plusieurs fois en fouettant, puis laisse épaissir 4 à 5 minutes. Sale, poivre et ajoute la muscade.",
+    "Hors du feu, incorpore les deux tiers du fromage et mélange jusqu'à ce qu'il soit fondu.",
+    "Verse la sauce sur le brocoli, puis parsème du reste de fromage et de chapelure.",
+    "Enfourne 15 à 20 minutes, jusqu'à ce que le dessus soit doré et que ça bouillonne sur les bords. Laisse reposer 5 minutes avant de servir."
+  ],
+  "tips": [
+    "Les tiges de brocoli sont tendres et savoureuses une fois pelées : ne les jette pas.",
+    "Mélange plusieurs fonds de fromage : un morceau sec de gouda et un reste de comté se râpent très bien.",
+    "Un croûton de pain rassis mixé remplace la chapelure.",
+    "Les restes se gardent 2 jours au frigo dans une boîte fermée et se réchauffent au four ou au micro-ondes."
+  ],
+  "variants": [
+    "Pas de lait : remplace-le par 20 cl de lait et 20 cl de crème ou d'eau de cuisson du brocoli.",
+    "Ajoute des dés de jambon ou de lardons poêlés pour un plat plus complet.",
+    "Le chou-fleur ou les haricots verts peuvent remplacer tout ou partie du brocoli."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser du brocoli surgelé ?",
+      "answer": "Oui. Fais-le décongeler et égoutte-le bien, puis passe directement à la sauce : la précuisson n'est plus nécessaire."
+    },
+    {
+      "question": "Quel fromage choisir ?",
+      "answer": "Un fromage qui fond bien : gouda, emmental, cheddar, comté ou mozzarella. Évite les fromages trop frais, qui rendent de l'eau."
+    },
+    {
+      "question": "Comment éviter que le gratin soit aqueux ?",
+      "answer": "Égoutte soigneusement le brocoli après cuisson et laisse-le s'évaporer quelques minutes avant de le mettre dans le plat."
+    }
+  ],
+  "tools": [
+    "plat à gratin",
+    "casserole"
+  ],
+  "slug": "gratin-de-brocoli-au-fromage-pret-en-35-min",
+  "datePublished": "2026-11-13"
+}
