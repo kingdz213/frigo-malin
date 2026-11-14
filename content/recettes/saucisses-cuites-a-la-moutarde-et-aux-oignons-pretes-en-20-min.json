@@ -1,0 +1,86 @@
+{
+  "title": "Saucisses cuites à la moutarde et aux oignons, prêtes en 20 min",
+  "seoTitle": "Que faire avec des saucisses cuites ? Recette en 20 min",
+  "metaDescription": "Il reste des saucisses cuites au frigo ? Fais-les dorer avec des oignons fondants et une sauce moutarde-crème, prêtes en 20 minutes.",
+  "mainIngredients": [
+    "saucisse"
+  ],
+  "intro": "Quand il reste deux ou trois saucisses du barbecue ou de la veille, on hésite souvent à les réchauffer telles quelles. Coupées en tronçons et nappées d'une sauce moutarde-crème aux oignons, elles retrouvent du goût et se servent avec du riz, des pâtes ou des pommes de terre.",
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "3 à 4",
+      "name": "saucisses déjà cuites (environ 300 g)"
+    },
+    {
+      "quantity": "2",
+      "name": "oignons"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "huile ou beurre"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "sucre"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "moutarde"
+    },
+    {
+      "quantity": "10 cl",
+      "name": "crème fraîche ou crème liquide"
+    },
+    {
+      "quantity": "5 cl",
+      "name": "eau ou bouillon"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel, poivre et persil si tu en as"
+    }
+  ],
+  "steps": [
+    "Émince les oignons en fines lamelles et coupe les saucisses en rondelles de 1,5 cm.",
+    "Fais chauffer l'huile dans une poêle à feu moyen, ajoute les oignons avec le sucre et une pincée de sel, puis laisse-les fondre 8 minutes en remuant de temps en temps, jusqu'à ce qu'ils soient dorés.",
+    "Pousse les oignons sur le côté, ajoute les saucisses et fais-les colorer 3 minutes de chaque côté.",
+    "Verse l'eau ou le bouillon et gratte le fond de la poêle pour décoller les sucs.",
+    "Baisse le feu, ajoute la moutarde et la crème, mélange et laisse frémir 3 minutes pour que la sauce nappe.",
+    "Poivre, goûte et rectifie le sel. Parsème de persil et sers bien chaud avec du riz, des pâtes ou une purée."
+  ],
+  "tips": [
+    "Les saucisses déjà cuites n'ont besoin que de se réchauffer à cœur : elles doivent être bien chaudes avant de servir.",
+    "Un reste de riz, de pâtes ou de pommes de terre cuites peut être ajouté directement dans la poêle pour faire un plat complet.",
+    "Un fond de vin blanc ou un peu de bière à la place de l'eau donne plus de relief à la sauce.",
+    "Conserve les restes 2 jours au frigo dans une boîte fermée et réchauffe-les complètement avant de les manger."
+  ],
+  "variants": [
+    "Pas de crème : utilise du yaourt nature en fin de cuisson, hors du feu, ou simplement un peu plus de bouillon.",
+    "Pas de moutarde : remplace-la par une cuillère de concentré de tomate pour une sauce plus douce.",
+    "Pas de saucisses : des restes de poulet rôti ou de jambon en dés fonctionnent aussi."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on réchauffer deux fois des saucisses cuites ?",
+      "answer": "Mieux vaut éviter. Réchauffe uniquement la quantité que tu vas manger et garde le reste froid, au frigo, sans le laisser à température ambiante."
+    },
+    {
+      "question": "Combien de temps se gardent des saucisses cuites au frigo ?",
+      "answer": "Compte 2 à 3 jours dans une boîte fermée, à moins de 4 °C. Au-delà, mieux vaut ne pas les consommer."
+    },
+    {
+      "question": "Que servir avec cette poêlée ?",
+      "answer": "Du riz, des pâtes, une purée ou des pommes de terre vapeur absorbent bien la sauce. Une salade verte ou des haricots verts complètent le repas."
+    }
+  ],
+  "tools": [
+    "poêle",
+    "couteau"
+  ],
+  "slug": "saucisses-cuites-a-la-moutarde-et-aux-oignons-pretes-en-20-min",
+  "datePublished": "2026-11-14"
+}
