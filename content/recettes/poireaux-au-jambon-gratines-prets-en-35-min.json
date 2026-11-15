@@ -1,0 +1,87 @@
+{
+  "title": "Poireaux au jambon gratinés, prêts en 35 min",
+  "seoTitle": "Que faire avec jambon et poireau ? Gratin prêt en 35 min",
+  "metaDescription": "Des poireaux au fond du bac et quelques tranches de jambon ? Ce gratin crémeux, simple et rapide, se prépare avec le contenu du frigo.",
+  "mainIngredients": [
+    "jambon",
+    "poireau"
+  ],
+  "intro": "Il reste deux ou trois poireaux et quelques tranches de jambon qui n'attendront pas le week-end. Enroulés ensemble et nappés d'une sauce onctueuse, ils font un plat complet du soir, sans courses.",
+  "prepMinutes": 15,
+  "cookMinutes": 20,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "4",
+      "name": "poireaux moyens (environ 700 g)"
+    },
+    {
+      "quantity": "4",
+      "name": "tranches de jambon cuit"
+    },
+    {
+      "quantity": "30 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "30 g",
+      "name": "farine"
+    },
+    {
+      "quantity": "40 cl",
+      "name": "lait"
+    },
+    {
+      "quantity": "80 g",
+      "name": "fromage râpé"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "noix de muscade"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Préchauffe le four à 200 °C. Coupe les racines et le haut vert foncé des poireaux, fends-les en deux dans la longueur et rince-les bien sous l'eau froide entre les feuilles.",
+    "Coupe chaque poireau en tronçons de 10 cm. Cuis-les 8 à 10 minutes dans une grande casserole d'eau bouillante salée, jusqu'à ce que la pointe d'un couteau s'enfonce facilement.",
+    "Égoutte-les et laisse-les tiédir, puis presse-les doucement dans un torchon pour retirer l'eau.",
+    "Pendant ce temps, fais fondre le beurre dans une casserole, ajoute la farine et remue 1 minute. Verse le lait peu à peu en fouettant, puis laisse épaissir 5 minutes à feu doux. Assaisonne avec sel, poivre et muscade.",
+    "Enroule 1 ou 2 tronçons de poireau dans chaque demi-tranche de jambon et range les rouleaux dans un plat à gratin beurré.",
+    "Nappe de sauce, parsème de fromage râpé et enfourne 15 à 20 minutes, jusqu'à ce que le dessus soit bien doré."
+  ],
+  "tips": [
+    "Bien rincer les poireaux est essentiel : la terre se cache entre les feuilles, surtout vers le vert.",
+    "Presser les poireaux cuits évite un gratin qui baigne dans l'eau.",
+    "Garde le vert foncé des poireaux pour un bouillon ou une soupe plutôt que de le jeter.",
+    "Le gratin se conserve 2 jours au frigo, bien couvert, et se réchauffe au four."
+  ],
+  "variants": [
+    "Pas de jambon : des lardons rissolés ou du blanc de poulet cuit effiloché.",
+    "Pas de lait : 20 cl de crème et 20 cl d'eau, ou du bouillon pour une sauce plus légère.",
+    "Une pomme de terre cuite en rondelles au fond du plat pour un gratin plus copieux."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on préparer le gratin à l'avance ?",
+      "answer": "Oui, assemble-le le matin, garde-le couvert au frigo et ajoute 5 à 10 minutes de cuisson le soir."
+    },
+    {
+      "question": "Quel fromage choisir ?",
+      "answer": "Un gruyère, un emmental ou un reste de vieux gouda râpé fondent bien et gratinent joliment."
+    },
+    {
+      "question": "Peut-on congeler ce plat ?",
+      "answer": "Les poireaux deviennent un peu aqueux à la décongélation. Il vaut mieux le manger dans les 2 jours."
+    }
+  ],
+  "tools": [
+    "plat à gratin",
+    "casserole"
+  ],
+  "slug": "poireaux-au-jambon-gratines-prets-en-35-min",
+  "datePublished": "2026-11-15"
+}
