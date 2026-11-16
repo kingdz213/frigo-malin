@@ -1,0 +1,86 @@
+{
+  "title": "Soupe froide de concombre au yaourt, prête en 10 min",
+  "seoTitle": "Que faire avec un concombre mou ? Soupe froide en 10 min",
+  "metaDescription": "Un concombre un peu mou n'est pas perdu : mixé avec du yaourt, de l'ail et des herbes, il donne une soupe froide fraîche en 10 minutes.",
+  "mainIngredients": [
+    "concombre"
+  ],
+  "intro": "Un concombre qui a perdu son croquant ne se mange plus très bien en salade, mais il reste parfait mixé. Avec du yaourt et quelques herbes, tu obtiens une soupe froide fraîche, sans cuisson et sans courses.",
+  "prepMinutes": 10,
+  "cookMinutes": 0,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "1 gros (environ 400 g)",
+      "name": "concombre mou"
+    },
+    {
+      "quantity": "250 g",
+      "name": "yaourt nature"
+    },
+    {
+      "quantity": "1/2 gousse",
+      "name": "d'ail"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "jus de citron"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "1 petite poignée",
+      "name": "de menthe, d'aneth ou de ciboulette"
+    },
+    {
+      "quantity": "100 ml",
+      "name": "d'eau très froide"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "de sel et de poivre"
+    }
+  ],
+  "steps": [
+    "Lave le concombre, retire les extrémités et les éventuelles zones brunes ou ramollies. Goûte un petit morceau : il doit sentir le frais, sans odeur ni goût aigre.",
+    "Coupe-le en gros morceaux, avec la peau si elle est fine et propre. Épépine-le si les graines sont grosses ou amères.",
+    "Pèle la demi-gousse d'ail et dégerme-la. Effeuille les herbes en gardant quelques feuilles pour le service.",
+    "Mets le concombre, l'ail, le yaourt, le citron, l'huile et l'eau dans un blender ou dans un grand verre mesureur avec un mixeur plongeant. Mixe 30 secondes jusqu'à une texture lisse.",
+    "Ajoute les herbes, sel et poivre, puis mixe encore 10 secondes. Goûte et ajuste le citron ou le sel.",
+    "Place la soupe 20 minutes au frais si tu as le temps, puis sers-la dans des bols avec un filet d'huile et les feuilles d'herbes réservées."
+  ],
+  "tips": [
+    "Si la soupe est trop liquide, ajoute une cuillère de yaourt ; si elle est trop épaisse, un peu d'eau froide.",
+    "Un concombre mou rend de l'eau : n'ajoute pas tout le liquide d'un coup et mesure à la fin.",
+    "Une tranche de pain rassis mixée avec la soupe la rend plus onctueuse et utilise un autre reste.",
+    "Consomme-la dans les 24 heures, gardée au frigo dans une boîte fermée."
+  ],
+  "variants": [
+    "Sans yaourt : remplace-le par du fromage blanc, du skyr ou une cuillère de crème fraîche allongée d'eau.",
+    "Version relevée : une pincée de cumin ou de piment d'Espelette.",
+    "Version tzatziki : égoutte et râpe le concombre, mélange-le au yaourt sans mixer et sers-le en sauce."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on encore manger un concombre mou ?",
+      "answer": "Oui, s'il est seulement ramolli ou un peu fripé. Jette-le s'il est visqueux, moisi ou s'il sent mauvais."
+    },
+    {
+      "question": "Faut-il éplucher le concombre ?",
+      "answer": "Pas obligatoirement. La peau est comestible si elle est propre et fine ; épluche-la si elle est épaisse ou amère."
+    },
+    {
+      "question": "Peut-on congeler cette soupe ?",
+      "answer": "Ce n'est pas conseillé : le yaourt et le concombre se séparent à la décongélation. Elle se prépare en 10 minutes, autant la faire fraîche."
+    }
+  ],
+  "tools": [
+    "blender ou mixeur plongeant",
+    "couteau"
+  ],
+  "slug": "soupe-froide-de-concombre-au-yaourt-prete-en-10-min",
+  "datePublished": "2026-11-16"
+}
