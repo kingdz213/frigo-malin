@@ -1,0 +1,58 @@
+{
+  "title": "Gâteau moelleux à la banane et au chocolat, prêt en 40 min",
+  "seoTitle": "Que faire avec bananes et chocolat ? Gâteau moelleux",
+  "metaDescription": "Des bananes trop mûres et un reste de tablette de chocolat ? Ce gâteau moelleux se prépare en 10 minutes et cuit pendant que tu ranges la cuisine.",
+  "mainIngredients": ["banane", "chocolat"],
+  "intro": "Les bananes tachées de noir et le fond de tablette oublié dans le placard font un duo parfait. Ce gâteau se mélange dans un seul saladier, sans robot, et reste moelleux pendant deux jours.",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "servings": 8,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "3", "name": "bananes très mûres" },
+    { "quantity": "100 g", "name": "chocolat noir ou au lait" },
+    { "quantity": "2", "name": "œufs" },
+    { "quantity": "80 g", "name": "sucre" },
+    { "quantity": "80 g", "name": "beurre fondu" },
+    { "quantity": "200 g", "name": "farine" },
+    { "quantity": "1 sachet (11 g)", "name": "levure chimique" },
+    { "quantity": "1 pincée", "name": "sel" }
+  ],
+  "steps": [
+    "Préchauffe le four à 180 °C. Beurre un moule à cake et farine-le légèrement, ou tapisse-le de papier cuisson.",
+    "Écrase les bananes à la fourchette dans un saladier, jusqu'à obtenir une purée avec quelques morceaux.",
+    "Ajoute les œufs, le sucre et le beurre fondu (légèrement tiédi), puis fouette 1 minute.",
+    "Mélange la farine, la levure et le sel, puis incorpore-les à la préparation à la spatule, juste le temps de ne plus voir de farine.",
+    "Coupe le chocolat en pépites au couteau et ajoute-le à la pâte, en gardant une petite poignée pour le dessus.",
+    "Verse la pâte dans le moule, parsème du chocolat réservé et enfourne 30 minutes.",
+    "Vérifie la cuisson avec la lame d'un couteau : elle doit ressortir propre. Laisse tiédir 10 minutes avant de démouler."
+  ],
+  "tips": [
+    "Plus les bananes sont noires, plus le gâteau est parfumé et sucré : tu peux même réduire le sucre à 60 g.",
+    "Une banane trop mûre mais pas encore utilisable ? Épluche-la, congèle-la, et écrase-la une fois décongelée.",
+    "Ne mélange pas trop la pâte une fois la farine ajoutée, sinon le gâteau devient dense.",
+    "Les carrés de chocolat entamés ou un peu blanchis en surface fondent très bien dans un gâteau : aucun besoin de les jeter."
+  ],
+  "variants": [
+    "Pas de chocolat : des noix, des noisettes concassées ou des raisins secs.",
+    "Pas de beurre : la même quantité d'huile neutre, de colza ou de tournesol.",
+    "Pas de levure chimique : une demi-cuillère à café de bicarbonate avec une cuillère à soupe de jus de citron."
+  ],
+  "faq": [
+    {
+      "question": "Combien de temps se garde ce gâteau ?",
+      "answer": "Enveloppé dans un film ou une boîte hermétique, il se garde 2 à 3 jours à température ambiante. Tu peux aussi le trancher et congeler les parts."
+    },
+    {
+      "question": "Peut-on utiliser des bananes encore un peu vertes ?",
+      "answer": "Ce n'est pas idéal : elles sont moins sucrées et s'écrasent mal. Laisse-les mûrir quelques jours ou ajoute 20 g de sucre."
+    },
+    {
+      "question": "Comment éviter que le chocolat tombe au fond du moule ?",
+      "answer": "Coupe-le en gros morceaux et roule-le dans une cuillère de farine avant de l'ajouter à la pâte."
+    }
+  ],
+  "tools": ["moule à cake", "saladier"],
+  "slug": "gateau-moelleux-a-la-banane-et-au-chocolat-pret-en-40-min",
+  "datePublished": "2026-11-17"
+}
