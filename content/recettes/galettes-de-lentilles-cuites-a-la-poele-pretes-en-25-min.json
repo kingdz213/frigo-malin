@@ -1,0 +1,58 @@
+{
+  "title": "Galettes de lentilles cuites à la poêle, prêtes en 25 min",
+  "seoTitle": "Que faire avec lentilles cuites ? Galettes en 25 min",
+  "metaDescription": "Il te reste des lentilles cuites ? Transforme-les en galettes dorées et croustillantes, avec un oignon et un œuf, en 25 minutes et sans courses.",
+  "mainIngredients": ["lentille cuite"],
+  "intro": "Un fond de boîte ou de casserole de lentilles cuites, et tu te demandes comment ne pas les resservir à l'identique. Ces galettes se préparent avec ce que tu as déjà : elles sont dorées dehors, moelleuses dedans, et conviennent aussi bien au dîner qu'au repas de midi emporté.",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "250 g", "name": "lentilles cuites, bien égouttées" },
+    { "quantity": "1", "name": "oignon" },
+    { "quantity": "1", "name": "gousse d'ail" },
+    { "quantity": "1", "name": "œuf" },
+    { "quantity": "4 c. à soupe", "name": "chapelure ou flocons d'avoine (ou farine)" },
+    { "quantity": "1 c. à café", "name": "cumin moulu ou paprika" },
+    { "quantity": "3 c. à soupe", "name": "huile pour la cuisson" },
+    { "quantity": "1", "name": "pincée de sel et de poivre" }
+  ],
+  "steps": [
+    "Égoutte très bien les lentilles et sèche-les dans un torchon propre ou du papier absorbant : moins elles sont humides, mieux les galettes tiennent.",
+    "Émince finement l'oignon et l'ail. Fais-les revenir 4 minutes dans une cuillère à soupe d'huile, jusqu'à ce qu'ils soient tendres.",
+    "Dans un saladier, écrase grossièrement les lentilles à la fourchette en laissant quelques grains entiers.",
+    "Ajoute l'oignon et l'ail, l'œuf, la chapelure, le cumin, le sel et le poivre. Mélange jusqu'à obtenir une pâte qui se tient. Si elle colle trop, ajoute une cuillère de chapelure.",
+    "Façonne 6 galettes de 7 cm de diamètre, épaisses d'1,5 cm environ, avec les mains légèrement humides.",
+    "Fais chauffer le reste de l'huile dans une poêle à feu moyen. Fais dorer les galettes 4 à 5 minutes de chaque côté, sans les retourner trop tôt.",
+    "Dépose-les sur du papier absorbant 1 minute et sers-les chaudes, avec du yaourt nature, une salade ou de la moutarde."
+  ],
+  "tips": [
+    "Fais reposer la pâte 10 minutes au frigo si tu as le temps : les galettes se tiendront encore mieux à la cuisson.",
+    "Ajoute le reste d'herbes qui traîne (persil, coriandre, ciboulette) ciselées dans la pâte pour plus de goût.",
+    "Les galettes cuites se conservent 2 jours au frigo dans une boîte fermée et se réchauffent à la poêle ou au four.",
+    "Tu peux congeler les galettes crues, séparées par du papier cuisson, et les cuire directement à la poêle."
+  ],
+  "variants": [
+    "Pas d'œuf : remplace-le par 2 cuillères à soupe de farine et 2 cuillères à soupe d'eau.",
+    "Un reste de carotte ou de courgette râpée et bien pressée peut s'ajouter à la pâte.",
+    "Pas de cumin : du curry doux, du thym ou simplement du poivre fonctionnent très bien."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser des lentilles en conserve ?",
+      "answer": "Oui. Rince-les, égoutte-les longuement et sèche-les bien avant de les écraser, sinon la pâte sera trop humide."
+    },
+    {
+      "question": "Comment éviter que les galettes se cassent à la cuisson ?",
+      "answer": "Écrase bien les lentilles, ne mets pas trop peu de chapelure et attends que le dessous soit doré avant de les retourner avec une spatule large."
+    },
+    {
+      "question": "Combien de temps se conservent les lentilles cuites avant de les utiliser ?",
+      "answer": "Compte 3 à 4 jours au frigo dans une boîte fermée. Au-delà, ou si elles sentent mauvais ou sont visqueuses, jette-les."
+    }
+  ],
+  "tools": ["poêle anti-adhésive", "fourchette ou presse-purée"],
+  "slug": "galettes-de-lentilles-cuites-a-la-poele-pretes-en-25-min",
+  "datePublished": "2026-11-18"
+}
