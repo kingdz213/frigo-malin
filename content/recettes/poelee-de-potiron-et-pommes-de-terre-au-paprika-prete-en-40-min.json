@@ -1,0 +1,87 @@
+{
+  "title": "Poêlée de potiron et pommes de terre au paprika, prête en 40 min",
+  "seoTitle": "Que faire avec potiron et pomme de terre ? Poêlée 40 min",
+  "metaDescription": "Un quartier de potiron et quelques pommes de terre ? Cette poêlée dorée au paprika et au fromage se prépare avec ce qu'il y a dans le frigo.",
+  "mainIngredients": [
+    "potiron",
+    "pomme de terre"
+  ],
+  "intro": "Il reste un morceau de potiron entamé et quelques pommes de terre qui commencent à germer ? Cette poêlée les transforme en plat complet, doré à l'extérieur et fondant à l'intérieur. Aucune course à prévoir.",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "400 g",
+      "name": "potiron (épluché)"
+    },
+    {
+      "quantity": "500 g",
+      "name": "pommes de terre"
+    },
+    {
+      "quantity": "2",
+      "name": "oignons"
+    },
+    {
+      "quantity": "2",
+      "name": "gousses d'ail"
+    },
+    {
+      "quantity": "3 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "paprika doux"
+    },
+    {
+      "quantity": "100 g",
+      "name": "fromage râpé (gruyère, emmental ou reste de fromage)"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "persil ou ciboulette ciselés, sel, poivre"
+    }
+  ],
+  "steps": [
+    "Épluche le potiron et retire les graines. Coupe-le en dés de 2 cm. Épluche les pommes de terre et coupe-les en dés de 1,5 cm, un peu plus petits car ils cuisent plus lentement.",
+    "Fais chauffer l'huile dans une grande poêle à feu moyen-vif. Ajoute les pommes de terre, sale et laisse dorer 8 minutes en remuant de temps en temps.",
+    "Ajoute les dés de potiron et les oignons émincés. Baisse à feu moyen, couvre et laisse cuire 12 minutes en remuant deux ou trois fois.",
+    "Ajoute l'ail haché et le paprika, remue 1 minute pour parfumer sans brûler l'ail.",
+    "Découvre et laisse cuire encore 8 à 10 minutes à feu moyen-vif, jusqu'à ce que les pommes de terre se piquent facilement à la pointe d'un couteau et que le potiron soit légèrement caramélisé.",
+    "Parsème de fromage râpé, couvre 2 minutes hors du feu pour le faire fondre, poivre et saupoudre d'herbes avant de servir."
+  ],
+  "tips": [
+    "Les pommes de terre qui ont commencé à germer sont utilisables si tu retires les germes et les parties vertes ; jette-les si elles sont molles ou très ridées.",
+    "Garde les graines de potiron : rince-les, sèche-les et fais-les griller 10 minutes au four à 180 °C avec un peu de sel pour les croquer à l'apéritif.",
+    "Un reste de poêlée se conserve 2 jours au frigo dans une boîte fermée. Réchauffe-la à la poêle plutôt qu'au micro-ondes pour retrouver du croustillant.",
+    "Ne surcharge pas la poêle : si elle est trop pleine, les légumes cuisent à la vapeur au lieu de dorer. Utilise deux poêles ou cuis en deux fois."
+  ],
+  "variants": [
+    "Pas de paprika : du cumin, du curry doux ou simplement du thym séché.",
+    "Pas de fromage râpé : un reste de chèvre frais ou de feta émiettée apporte du caractère.",
+    "Pour un plat plus complet, ajoute des lardons ou un reste de jambon coupé en dés en même temps que les oignons."
+  ],
+  "faq": [
+    {
+      "question": "Faut-il éplucher le potiron ?",
+      "answer": "Pour cette recette, oui, sauf s'il s'agit d'un potimarron ou d'un butternut à peau fine : leur peau devient tendre à la cuisson et peut rester."
+    },
+    {
+      "question": "Peut-on préparer la poêlée à l'avance ?",
+      "answer": "Oui, jusqu'à l'ajout du fromage. Garde-la au frigo 2 jours maximum, puis réchauffe-la à la poêle et ajoute le fromage au dernier moment."
+    },
+    {
+      "question": "Pourquoi mes légumes sont-ils mous ?",
+      "answer": "La poêle était sans doute trop pleine ou le feu trop doux. Coupe des dés réguliers, utilise une grande poêle et laisse d'abord dorer sans couvrir."
+    }
+  ],
+  "tools": [
+    "grande poêle avec couvercle",
+    "couteau d'office"
+  ],
+  "slug": "poelee-de-potiron-et-pommes-de-terre-au-paprika-prete-en-40-min",
+  "datePublished": "2026-11-19"
+}
