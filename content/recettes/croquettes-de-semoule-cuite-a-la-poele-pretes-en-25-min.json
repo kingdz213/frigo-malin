@@ -1,0 +1,91 @@
+{
+  "title": "Croquettes de semoule cuite à la poêle, prêtes en 25 min",
+  "seoTitle": "Que faire avec semoule cuite ? Croquettes en 25 min",
+  "metaDescription": "Il te reste de la semoule cuite ? Transforme-la en croquettes dorées au fromage et aux herbes, prêtes en 25 minutes avec ce que tu as déjà.",
+  "mainIngredients": [
+    "semoule cuite"
+  ],
+  "intro": "Un fond de semoule de la veille, et personne n'a envie de la resservir telle quelle. Ces croquettes se préparent avec un œuf, un peu de fromage et quelques herbes : dorées dehors, moelleuses dedans, elles font un dîner rapide ou un accompagnement.",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "semoule cuite, refroidie"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "2",
+      "name": "œufs"
+    },
+    {
+      "quantity": "60 g",
+      "name": "fromage râpé (gouda, emmental ou parmesan)"
+    },
+    {
+      "quantity": "3 c. à soupe",
+      "name": "farine"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "persil ou ciboulette ciselés"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "paprika ou cumin moulu"
+    },
+    {
+      "quantity": "4 c. à soupe",
+      "name": "huile pour la cuisson"
+    },
+    {
+      "quantity": "1",
+      "name": "pincée de sel et de poivre"
+    }
+  ],
+  "steps": [
+    "Émince finement l'oignon et fais-le revenir 4 minutes dans une cuillère à soupe d'huile à feu moyen, jusqu'à ce qu'il soit tendre. Laisse-le tiédir.",
+    "Dans un saladier, égrène la semoule cuite à la fourchette pour séparer les grains.",
+    "Ajoute l'oignon, les œufs, le fromage râpé, la farine, les herbes, le paprika, le sel et le poivre. Mélange jusqu'à obtenir une pâte qui se tient.",
+    "Teste la pâte : si elle colle trop aux doigts, ajoute une cuillère de farine ; si elle s'effrite, ajoute un peu de lait ou un second œuf.",
+    "Avec les mains légèrement humides, façonne 8 croquettes plates d'environ 6 cm de diamètre et 1,5 cm d'épaisseur.",
+    "Fais chauffer le reste de l'huile dans une poêle à feu moyen. Fais dorer les croquettes 3 à 4 minutes de chaque côté, sans les retourner trop tôt.",
+    "Dépose-les 1 minute sur du papier absorbant et sers-les chaudes, avec du yaourt nature, une salade ou une sauce tomate."
+  ],
+  "tips": [
+    "Utilise de la semoule refroidie depuis plusieurs heures : elle est plus ferme et se façonne beaucoup mieux que de la semoule tiède.",
+    "Ajoute un reste de légume cuit coupé en petits dés (carotte, courgette, poivron) pour vider le frigo en même temps.",
+    "Conserve les croquettes cuites 2 jours au frigo dans une boîte fermée et réchauffe-les à la poêle ou au four.",
+    "Congèle les croquettes crues séparées par du papier cuisson et cuis-les directement à la poêle, 1 minute de plus par côté."
+  ],
+  "variants": [
+    "Pas de fromage râpé : remplace-le par 2 cuillères à soupe de farine en plus et une pincée de sel supplémentaire.",
+    "Pas d'œuf : mélange 2 cuillères à soupe de farine avec 3 cuillères à soupe d'eau et ajoute-les à la pâte.",
+    "Pour une version sucrée, supprime l'oignon, le fromage et les épices, puis ajoute du sucre et de la cannelle."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser de la semoule de couscous déjà assaisonnée ?",
+      "answer": "Oui, mais goûte la pâte avant de saler : le couscous restant est souvent déjà salé. Les épices qu'il contient s'accordent bien avec les croquettes."
+    },
+    {
+      "question": "Combien de temps se conserve la semoule cuite avant de la cuisiner ?",
+      "answer": "Refroidis-la vite, dans l'heure suivant la cuisson, et garde-la au frigo dans une boîte fermée. Compte 2 à 3 jours maximum, puis jette-la si elle sent mauvais."
+    },
+    {
+      "question": "Peut-on cuire les croquettes au four ?",
+      "answer": "Oui : dépose-les sur une plaque avec du papier cuisson, badigeonne-les d'huile et enfourne 20 minutes à 200 °C en les retournant à mi-cuisson."
+    }
+  ],
+  "tools": [
+    "poêle anti-adhésive",
+    "saladier"
+  ],
+  "slug": "croquettes-de-semoule-cuite-a-la-poele-pretes-en-25-min",
+  "datePublished": "2026-11-20"
+}
