@@ -1,0 +1,87 @@
+{
+  "title": "Piperade express aux poivrons et aux œufs, prête en 25 min",
+  "seoTitle": "Que faire avec un poivron et des œufs ? Piperade 25 min",
+  "metaDescription": "Un poivron ramolli et quelques œufs suffisent pour une piperade fondante, prête en 25 minutes dans une seule poêle. Sans courses, à servir avec du pain.",
+  "mainIngredients": [
+    "poivron",
+    "œuf"
+  ],
+  "intro": "Un poivron qui ramollit au fond du bac à légumes garde tout son goût une fois cuit. Avec des œufs, tu obtiens une piperade inspirée du Pays basque : un plat chaud, simple, prêt en 25 minutes dans une seule poêle.",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "2",
+      "name": "poivrons (rouges, jaunes ou verts, même un peu ridés)"
+    },
+    {
+      "quantity": "4",
+      "name": "œufs"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "1 gousse",
+      "name": "d'ail"
+    },
+    {
+      "quantity": "2",
+      "name": "tomates mûres ou 200 g de tomates concassées en boîte"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "paprika doux"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Coupe les poivrons en deux, retire les graines et la partie blanche, puis taille-les en lanières fines. Émince l'oignon et l'ail. Coupe les tomates en dés.",
+    "Fais chauffer l'huile dans une grande poêle à feu moyen. Ajoute l'oignon et laisse-le fondre 3 minutes sans le colorer.",
+    "Ajoute les lanières de poivron et le paprika, sale légèrement et fais cuire 8 minutes en remuant de temps en temps, jusqu'à ce qu'elles soient tendres.",
+    "Incorpore l'ail et les tomates, puis laisse mijoter 5 minutes à feu doux, jusqu'à ce que le jus soit presque évaporé.",
+    "Bats les œufs dans un bol avec une pincée de sel et du poivre. Verse-les sur les légumes et remue doucement avec une spatule, 2 à 3 minutes, pour obtenir des œufs baveux mais bien pris.",
+    "Les œufs doivent être cuits et non liquides. Sers aussitôt, directement dans la poêle, avec du pain."
+  ],
+  "tips": [
+    "Un poivron mou ou légèrement ridé convient très bien : retire seulement les parties abîmées ou moisies et jette-le s'il est visqueux.",
+    "Pour plus de douceur, retire la peau des poivrons après les avoir passés 10 minutes sous le gril, mais ce n'est pas obligatoire.",
+    "Un reste de jambon, de chorizo ou de lardons ajouté avec l'oignon transforme la piperade en repas plus copieux.",
+    "Les tomates trop mûres sont parfaites ici : plus elles sont molles, plus la sauce est savoureuse."
+  ],
+  "variants": [
+    "Sans tomate : ajoute 2 c. à soupe de concentré de tomate dilué dans un peu d'eau.",
+    "Version relevée : une pincée de piment d'Espelette ou de piment en poudre avec le paprika.",
+    "Au four : verse les légumes dans un plat, creuse 4 puits, casse un œuf dans chacun et enfourne 10 minutes à 200 °C."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on préparer la base de légumes à l'avance ?",
+      "answer": "Oui, la base de poivrons et de tomates se garde 2 jours au frigo dans une boîte fermée. Réchauffe-la dans la poêle et ajoute les œufs au dernier moment."
+    },
+    {
+      "question": "Comment éviter des œufs secs ?",
+      "answer": "Baisse le feu avant de verser les œufs et remue doucement. Retire la poêle du feu dès qu'ils ne sont plus liquides : ils finissent de cuire avec la chaleur des légumes."
+    },
+    {
+      "question": "Combien de temps garder les restes de piperade ?",
+      "answer": "Une piperade avec des œufs cuits se garde 24 heures au frigo, dans une boîte fermée. Réchauffe-la jusqu'à ce qu'elle soit bien chaude."
+    }
+  ],
+  "tools": [
+    "grande poêle",
+    "spatule en bois"
+  ],
+  "slug": "piperade-express-aux-poivrons-et-aux-oeufs-prete-en-25-min",
+  "datePublished": "2026-11-21"
+}
