@@ -1,0 +1,92 @@
+{
+  "title": "Pâtes au thon, à la tomate et aux câpres, prêtes en 20 min",
+  "seoTitle": "Que faire avec thon en boîte et pâtes ? Prêt en 20 min",
+  "metaDescription": "Une boîte de thon et un fond de paquet de pâtes suffisent : cette poêlée à la tomate, au citron et aux câpres se prépare en 20 minutes, sans courses.",
+  "mainIngredients": [
+    "thon en boîte",
+    "pâtes"
+  ],
+  "intro": "La solution des soirs sans inspiration : une boîte de thon qui traîne dans le placard et un reste de pâtes. La sauce se fait pendant que l'eau chauffe, et tout est prêt en 20 minutes.",
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "200 g",
+      "name": "de pâtes sèches (spaghetti, penne ou coquillettes)"
+    },
+    {
+      "quantity": "1 boîte",
+      "name": "de thon au naturel ou à l'huile (environ 140 g égoutté)"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon"
+    },
+    {
+      "quantity": "1 gousse",
+      "name": "d'ail"
+    },
+    {
+      "quantity": "200 g",
+      "name": "de tomates concassées en boîte ou de tomates fraîches mûres"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "de câpres égouttées (facultatif)"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "d'huile d'olive"
+    },
+    {
+      "quantity": "1/2",
+      "name": "citron (jus et un peu de zeste)"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "de sel, poivre, origan ou herbes séchées"
+    }
+  ],
+  "steps": [
+    "Porte une grande casserole d'eau salée à ébullition et fais cuire les pâtes selon le temps indiqué sur le paquet. Garde un petit verre d'eau de cuisson avant d'égoutter.",
+    "Pendant ce temps, épluche l'oignon et l'ail, puis émince-les finement.",
+    "Fais chauffer l'huile dans une poêle à feu moyen et fais fondre l'oignon 4 minutes, sans le colorer. Ajoute l'ail et laisse 30 secondes.",
+    "Verse les tomates, ajoute l'origan, un peu de poivre et laisse mijoter 8 minutes à feu doux, jusqu'à ce que la sauce épaississe.",
+    "Égoutte le thon, émiette-le à la fourchette et ajoute-le à la sauce avec les câpres. Chauffe 2 minutes, juste de quoi le réchauffer.",
+    "Ajoute les pâtes égouttées dans la poêle, mélange et allonge avec un peu d'eau de cuisson si la sauce est trop serrée.",
+    "Hors du feu, ajoute le jus de citron et un peu de zeste. Goûte, rectifie le sel (les câpres et le thon sont déjà salés) et sers aussitôt."
+  ],
+  "tips": [
+    "Une boîte de thon ouverte ne se garde pas dans sa boîte métallique : transfère le reste dans un récipient fermé, au frigo, et consomme-le sous 2 jours.",
+    "Garde toujours un peu d'eau de cuisson des pâtes : son amidon lie la sauce sans ajouter de crème.",
+    "Si tu as un fond de paquet de pâtes de plusieurs formes, mélange-les en adaptant le temps de cuisson à la plus grosse.",
+    "Un reste de pâtes déjà cuites ? Ajoute-les directement dans la sauce et chauffe-les 3 minutes."
+  ],
+  "variants": [
+    "Pas de tomates en boîte : 2 c. à soupe de concentré de tomate délayé dans 15 cl d'eau.",
+    "Pas de câpres : quelques olives hachées ou un cornichon coupé en dés.",
+    "Envie de crémeux : remplace la moitié de la sauce par 10 cl de crème fraîche ajoutée hors du feu."
+  ],
+  "faq": [
+    {
+      "question": "Thon au naturel ou à l'huile ?",
+      "answer": "Les deux fonctionnent. Le thon à l'huile est plus moelleux : dans ce cas, utilise un peu de son huile à la place de l'huile d'olive pour fondre l'oignon."
+    },
+    {
+      "question": "Peut-on réchauffer ce plat le lendemain ?",
+      "answer": "Oui, une fois, s'il a été mis au frigo dans les 2 heures après le repas. Réchauffe-le à la poêle jusqu'à ce qu'il soit bien chaud à cœur et consomme-le dans les 24 heures."
+    },
+    {
+      "question": "Peut-on utiliser du thon frais ou surgelé ?",
+      "answer": "Oui, mais il faut le cuire : coupe-le en dés et saisis-le 2 à 3 minutes à la poêle avant de l'ajouter à la sauce."
+    }
+  ],
+  "tools": [
+    "poêle",
+    "grande casserole"
+  ],
+  "slug": "pates-au-thon-a-la-tomate-et-aux-capres-pretes-en-20-min",
+  "datePublished": "2026-11-22"
+}
