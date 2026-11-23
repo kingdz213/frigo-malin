@@ -1,0 +1,58 @@
+{
+  "title": "Poêlée de pommes de terre et lardons, prête en 30 min",
+  "seoTitle": "Que faire avec des pommes de terre et des lardons ?",
+  "metaDescription": "Il te reste des pommes de terre et des lardons ? Fais-en une poêlée dorée et fondante à l'oignon, prête en 30 minutes avec très peu de vaisselle.",
+  "mainIngredients": ["pomme de terre", "lardon"],
+  "intro": "Quelques pommes de terre et un reste de lardons suffisent pour un vrai plat du soir. La poêlée est dorée à l'extérieur, fondante à l'intérieur, et elle se prépare avec un seul récipient de cuisson en plus de la casserole.",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    { "quantity": "500 g", "name": "pommes de terre (type charlotte ou bintje), épluchées" },
+    { "quantity": "150 g", "name": "lardons fumés" },
+    { "quantity": "1", "name": "gros oignon" },
+    { "quantity": "1 gousse", "name": "ail" },
+    { "quantity": "1 c. à soupe", "name": "huile ou beurre" },
+    { "quantity": "1 c. à café", "name": "thym ou persil séché (facultatif)" },
+    { "quantity": "50 g", "name": "fromage râpé (facultatif)" },
+    { "quantity": "1 pincée", "name": "sel, poivre" }
+  ],
+  "steps": [
+    "Coupe les pommes de terre en cubes de 2 cm. Rince-les rapidement sous l'eau froide pour retirer un peu d'amidon.",
+    "Plonge-les dans une casserole d'eau froide salée, porte à ébullition et laisse cuire 7 minutes : elles doivent être à peine tendres. Égoutte-les bien.",
+    "Pendant ce temps, fais revenir les lardons à sec dans une grande poêle à feu moyen pendant 4 à 5 minutes, puis retire-les avec une écumoire en laissant la graisse.",
+    "Ajoute l'huile ou le beurre si la poêle est trop sèche, puis verse les pommes de terre égouttées. Laisse-les dorer 8 minutes à feu moyen-vif en les remuant seulement toutes les 2 minutes.",
+    "Émince l'oignon et l'ail, ajoute-les dans la poêle et poursuis 4 minutes jusqu'à ce que l'oignon soit translucide.",
+    "Remets les lardons, ajoute le thym et poivre généreusement. Goûte avant de saler : les lardons sont déjà salés.",
+    "Parsème de fromage râpé si tu en as, couvre 2 minutes pour le faire fondre et sers tout de suite."
+  ],
+  "tips": [
+    "Précuire les pommes de terre à l'eau garantit un cœur fondant sans qu'elles brûlent dehors. Les restes de pommes de terre déjà cuites sautent directement à la poêle, sans cette étape.",
+    "Ne remue pas trop : c'est le contact prolongé avec la poêle chaude qui donne une belle croûte dorée.",
+    "Garde la graisse des lardons pour cuire les pommes de terre, tu n'auras presque pas besoin d'ajouter de matière grasse.",
+    "Les lardons ouverts se conservent 2 à 3 jours au frigo dans une boîte fermée, ou jusqu'à 3 mois au congélateur."
+  ],
+  "variants": [
+    "Pas de lardons : remplace-les par des dés de jambon, du chorizo ou un reste de saucisse cuite coupée en rondelles.",
+    "Pas de fromage râpé : un reste de reblochon, de raclette ou une cuillère de crème fraîche fait aussi très bien l'affaire.",
+    "Pour un plat plus complet, ajoute un œuf au plat par personne, bien cuit, ou une salade verte à côté."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser des pommes de terre déjà cuites ?",
+      "answer": "Oui, et c'est même idéal : coupe-les en cubes et fais-les dorer directement 8 à 10 minutes à la poêle. Saute simplement l'étape de précuisson."
+    },
+    {
+      "question": "Pourquoi mes pommes de terre collent-elles à la poêle ?",
+      "answer": "Elles sont probablement trop humides ou la poêle n'était pas assez chaude. Égoutte-les bien, laisse-les sécher une minute et ne les remue pas avant qu'une croûte se forme."
+    },
+    {
+      "question": "Peut-on réchauffer la poêlée le lendemain ?",
+      "answer": "Oui, garde-la au frigo dans une boîte fermée et consomme-la dans les 2 jours. Réchauffe-la à la poêle jusqu'à ce qu'elle soit bien chaude à cœur."
+    }
+  ],
+  "tools": ["grande poêle", "casserole"],
+  "slug": "poelee-de-pommes-de-terre-et-lardons-prete-en-30-min",
+  "datePublished": "2026-11-23"
+}
