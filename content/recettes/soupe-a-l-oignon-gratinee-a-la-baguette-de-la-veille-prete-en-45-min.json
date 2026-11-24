@@ -1,0 +1,92 @@
+{
+  "title": "Soupe à l'oignon gratinée à la baguette de la veille, prête en 45 min",
+  "seoTitle": "Que faire avec une baguette de la veille ? Soupe gratinée",
+  "metaDescription": "Ta baguette de la veille est dure ? Fais-en des croûtons gratinés posés sur une soupe à l'oignon fondante, avec du fromage râpé, en 45 minutes.",
+  "mainIngredients": [
+    "baguette de la veille"
+  ],
+  "intro": "Une baguette rassise ne se mange plus telle quelle, mais elle devient parfaite une fois grillée et gratinée. Cette soupe à l'oignon utilise des ingrédients de base et donne un repas du soir chaud et économique.",
+  "prepMinutes": 10,
+  "cookMinutes": 35,
+  "servings": 4,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "1/2 baguette rassise (environ 120 g)",
+      "name": "baguette de la veille"
+    },
+    {
+      "quantity": "4 gros (environ 700 g)",
+      "name": "oignons"
+    },
+    {
+      "quantity": "30 g",
+      "name": "beurre"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "farine"
+    },
+    {
+      "quantity": "1 litre",
+      "name": "bouillon de légumes ou de volaille"
+    },
+    {
+      "quantity": "10 cl",
+      "name": "vin blanc sec (facultatif)"
+    },
+    {
+      "quantity": "100 g",
+      "name": "fromage râpé (gruyère, emmental ou gouda)"
+    },
+    {
+      "quantity": "1 feuille",
+      "name": "laurier"
+    },
+    {
+      "quantity": "1 pincée",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Épluche les oignons et coupe-les en fines lamelles. Fais fondre le beurre à feu moyen dans une grande casserole à fond épais.",
+    "Ajoute les oignons avec une pincée de sel et fais-les cuire 15 minutes en remuant souvent, jusqu'à ce qu'ils soient bien dorés. S'ils attachent, ajoute une cuillère d'eau.",
+    "Saupoudre de farine, mélange 1 minute, puis verse le vin blanc et laisse-le s'évaporer 2 minutes. Sans vin, passe directement à l'étape suivante.",
+    "Verse le bouillon, ajoute le laurier, poivre, puis laisse mijoter 15 minutes à feu doux. Goûte et rectifie le sel.",
+    "Pendant ce temps, préchauffe le four à 200 °C en position gril. Coupe la baguette en tranches de 1,5 cm et fais-les griller 3 minutes sur une plaque, en les retournant à mi-temps.",
+    "Retire le laurier et répartis la soupe dans 4 bols allant au four. Pose 2 ou 3 croûtons sur chaque bol et recouvre de fromage râpé.",
+    "Passe les bols 5 minutes sous le gril, jusqu'à ce que le fromage soit doré et bouillonnant. Laisse reposer 2 minutes avant de servir, car les bols sont très chauds."
+  ],
+  "tips": [
+    "Plus la baguette est dure, mieux elle tient dans la soupe : inutile de l'assouplir, le bouillon s'en charge.",
+    "Les chutes et les talons de baguette se grillent aussi, ou se mixent en chapelure à garder dans un bocal.",
+    "Pour gagner du temps, coupe les oignons à la râpe ou au robot : ils fondront plus vite.",
+    "Tu peux congeler la soupe seule jusqu'à 3 mois, et griller les croûtons au moment de servir."
+  ],
+  "variants": [
+    "Pas de bouillon : dilue 1 cube dans 1 litre d'eau chaude, ou utilise l'eau de cuisson de légumes.",
+    "Pas de bols allant au four : gratine les croûtons au fromage sur une plaque, puis pose-les sur la soupe dans des bols classiques.",
+    "Version plus riche : frotte les croûtons avec une gousse d'ail avant de les garnir de fromage."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser une baguette vraiment très dure ?",
+      "answer": "Oui, tant qu'elle ne présente aucune trace de moisissure. Dans ce cas, jette-la entièrement, car les filaments invisibles s'étendent dans toute la mie."
+    },
+    {
+      "question": "Comment conserver la soupe restante ?",
+      "answer": "Laisse-la refroidir, puis garde-la au frigo dans une boîte fermée et consomme-la dans les 2 jours. Réchauffe-la jusqu'à ébullition avant de la gratiner."
+    },
+    {
+      "question": "Que faire si les oignons brunissent trop vite ?",
+      "answer": "Baisse le feu et ajoute un petit verre d'eau. Des oignons dorés donnent du goût, mais des oignons brûlés rendent la soupe amère."
+    }
+  ],
+  "tools": [
+    "grande casserole à fond épais",
+    "bols allant au four",
+    "plaque de cuisson"
+  ],
+  "slug": "soupe-a-l-oignon-gratinee-a-la-baguette-de-la-veille-prete-en-45-min",
+  "datePublished": "2026-11-24"
+}
