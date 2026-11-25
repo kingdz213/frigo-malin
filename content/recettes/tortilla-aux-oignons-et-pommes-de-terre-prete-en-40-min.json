@@ -1,0 +1,58 @@
+{
+  "title": "Tortilla aux oignons et pommes de terre, prête en 40 min",
+  "seoTitle": "Que faire avec oignons et pommes de terre ? Tortilla 40 min",
+  "metaDescription": "Quelques pommes de terre et des oignons qui traînent suffisent pour une tortilla moelleuse, dorée des deux côtés, prête en 40 minutes dans une poêle.",
+  "mainIngredients": ["oignon", "pomme de terre"],
+  "intro": "Des pommes de terre qui germent un peu et des oignons oubliés au fond du placard, c'est exactement la base d'une tortilla. Quelques œufs, une poêle, et tu as un plat complet qui se mange chaud ou froid, le soir comme le lendemain en pique-nique.",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "servings": 4,
+  "difficulty": "moyen",
+  "ingredients": [
+    { "quantity": "500 g", "name": "pommes de terre, pelées" },
+    { "quantity": "2", "name": "oignons moyens" },
+    { "quantity": "6", "name": "œufs" },
+    { "quantity": "6 c. à soupe", "name": "huile d'olive ou de tournesol" },
+    { "quantity": "1 gousse", "name": "d'ail (facultatif)" },
+    { "quantity": "1 c. à soupe", "name": "de persil haché (facultatif)" },
+    { "quantity": "1 c. à café", "name": "de sel" },
+    { "quantity": "1 pincée", "name": "de poivre" }
+  ],
+  "steps": [
+    "Épluche les pommes de terre et coupe-les en fines lamelles de 3 mm. Si elles ont germé, retire les germes et les parties vertes. Émince les oignons et l'ail.",
+    "Fais chauffer l'huile dans une poêle antiadhésive de 24 cm à feu moyen. Ajoute les pommes de terre, les oignons et le sel, puis laisse cuire 15 minutes en remuant de temps en temps. Elles doivent être tendres sans trop dorer.",
+    "Pendant ce temps, bats les œufs dans un grand saladier avec le poivre et le persil.",
+    "Égoutte les pommes de terre et les oignons dans une passoire en gardant l'huile. Verse-les dans les œufs, mélange et laisse reposer 5 minutes pour qu'ils s'imprègnent.",
+    "Remets 1 c. à soupe d'huile dans la poêle, verse la préparation et lisse le dessus. Cuis 5 minutes à feu doux-moyen, jusqu'à ce que le dessous soit doré et le bord pris.",
+    "Pose une grande assiette sur la poêle, retourne la tortilla d'un geste franc, puis fais-la glisser dans la poêle. Cuis encore 4 à 5 minutes. Les œufs doivent être bien pris.",
+    "Laisse reposer 5 minutes avant de couper en parts."
+  ],
+  "tips": [
+    "Garde l'huile de cuisson filtrée : elle est parfumée à l'oignon et resservira pour une poêlée.",
+    "Une pomme de terre molle mais sans moisissure ni odeur convient très bien ici. Jette celles qui sont noircies ou très vertes.",
+    "Pour retourner sans casse, utilise une assiette plus large que la poêle et fais-le au-dessus de l'évier.",
+    "Un fond de lardons, de jambon ou de fromage râpé s'ajoute sans problème au mélange."
+  ],
+  "variants": [
+    "Sans oignon : remplace-le par un poireau ou des échalotes.",
+    "Version plus riche : ajoute 100 g de jambon en dés ou de chorizo.",
+    "Sans retourner : termine la tortilla 8 minutes au four à 180 °C."
+  ],
+  "faq": [
+    {
+      "question": "Combien de temps se conserve la tortilla ?",
+      "answer": "Laisse-la refroidir, puis garde-la au frigo dans une boîte fermée jusqu'à 2 jours. Elle se mange froide ou réchauffée à la poêle."
+    },
+    {
+      "question": "Ma tortilla est sèche, pourquoi ?",
+      "answer": "Elle a sans doute trop cuit. Garde le centre légèrement moelleux en la retirant dès que les œufs sont pris, sans la laisser dorer fort."
+    },
+    {
+      "question": "Peut-on utiliser des pommes de terre déjà cuites ?",
+      "answer": "Oui. Coupe-les en tranches, fais juste revenir les oignons 10 minutes, puis mélange le tout avec les œufs."
+    }
+  ],
+  "tools": ["poêle antiadhésive de 24 cm", "grande assiette plate", "passoire"],
+  "slug": "tortilla-aux-oignons-et-pommes-de-terre-prete-en-40-min",
+  "datePublished": "2026-11-25"
+}
