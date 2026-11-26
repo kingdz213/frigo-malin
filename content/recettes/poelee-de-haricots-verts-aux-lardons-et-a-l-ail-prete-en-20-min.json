@@ -1,0 +1,87 @@
+{
+  "title": "Poêlée de haricots verts aux lardons et à l'ail, prête en 20 min",
+  "seoTitle": "Que faire avec haricots verts ? Poêlée en 20 min",
+  "metaDescription": "Il reste des haricots verts cuits ou frais ? Poêle-les avec des lardons, de l'ail et un filet de vinaigre : un plat rapide, prêt en 20 minutes.",
+  "mainIngredients": [
+    "haricot vert"
+  ],
+  "intro": "Il reste une poignée de haricots verts au fond du frigo, cuits la veille ou encore crus ? Poêlés avec des lardons, de l'ail et une pointe de vinaigre, ils retrouvent du goût. C'est un accompagnement rapide, ou un plat du soir avec un œuf au plat.",
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "servings": 2,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "300 g",
+      "name": "haricots verts (frais, surgelés ou déjà cuits)"
+    },
+    {
+      "quantity": "100 g",
+      "name": "lardons fumés"
+    },
+    {
+      "quantity": "2 gousses",
+      "name": "ail"
+    },
+    {
+      "quantity": "1",
+      "name": "petit oignon"
+    },
+    {
+      "quantity": "1 c. à soupe",
+      "name": "huile d'olive"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "vinaigre de vin ou jus de citron"
+    },
+    {
+      "quantity": "2 c. à soupe",
+      "name": "chapelure ou pain rassis émietté"
+    },
+    {
+      "quantity": "1",
+      "name": "sel et poivre"
+    }
+  ],
+  "steps": [
+    "Équeute les haricots verts frais. S'ils sont crus, plonge-les 6 à 8 minutes dans une casserole d'eau bouillante salée, puis égoutte-les. S'ils sont déjà cuits, passe directement à l'étape suivante.",
+    "Émince l'oignon et l'ail finement.",
+    "Fais chauffer l'huile dans une grande poêle à feu moyen. Ajoute les lardons et fais-les dorer 4 à 5 minutes, sans ajouter de matière grasse supplémentaire.",
+    "Ajoute l'oignon et laisse-le fondre 3 minutes en remuant.",
+    "Verse les haricots verts bien égouttés, poivre et fais-les sauter 5 minutes à feu assez vif, jusqu'à ce qu'ils soient chauds et légèrement colorés.",
+    "Ajoute l'ail pour la dernière minute seulement, pour qu'il ne brûle pas, puis déglace avec le vinaigre.",
+    "Goûte avant de saler, car les lardons le sont déjà. Parsème de chapelure et sers aussitôt."
+  ],
+  "tips": [
+    "Des haricots verts un peu ridés se rattrapent très bien : la cuisson à l'eau bouillante puis à la poêle leur redonne du moelleux.",
+    "Égoutte-les très bien avant de les mettre à la poêle, sinon ils bouillent au lieu de dorer.",
+    "Garde l'eau de cuisson refroidie pour arroser les plantes d'intérieur.",
+    "Les restes se conservent 2 jours au frigo dans une boîte fermée et se réchauffent à la poêle."
+  ],
+  "variants": [
+    "Pas de lardons : utilise des dés de jambon, ou 20 g de beurre et un peu de paprika fumé.",
+    "Ajoute un œuf au plat par personne pour en faire un repas complet.",
+    "Remplace la chapelure par des amandes ou des noisettes concassées."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser des haricots verts surgelés ?",
+      "answer": "Oui. Plonge-les directement dans l'eau bouillante 5 minutes, ou sers-toi-en à la poêle après les avoir décongelés et bien épongés."
+    },
+    {
+      "question": "Combien de temps garder des haricots verts cuits ?",
+      "answer": "Jusqu'à 2 jours au frigo, dans une boîte fermée, après les avoir laissés refroidir rapidement. Réchauffe-les à cœur avant de les manger."
+    },
+    {
+      "question": "Comment garder les haricots verts bien verts ?",
+      "answer": "Cuis-les dans une grande quantité d'eau bouillante salée, sans couvercle, puis passe-les sous l'eau froide si tu ne les poêles pas tout de suite."
+    }
+  ],
+  "tools": [
+    "grande poêle",
+    "casserole"
+  ],
+  "slug": "poelee-de-haricots-verts-aux-lardons-et-a-l-ail-prete-en-20-min",
+  "datePublished": "2026-11-26"
+}
