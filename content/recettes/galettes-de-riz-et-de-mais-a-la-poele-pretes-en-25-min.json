@@ -1,0 +1,88 @@
+{
+  "title": "Galettes de riz et de maïs à la poêle, prêtes en 25 min",
+  "seoTitle": "Que faire avec maïs et riz ? Galettes croustillantes 25 min",
+  "metaDescription": "Un fond de boîte de maïs et un reste de riz cuit ? Ces galettes dorées se préparent en 10 minutes avec un œuf et du fromage râpé.",
+  "mainIngredients": [
+    "maïs",
+    "riz"
+  ],
+  "intro": "Il reste une demi-boîte de maïs et un bol de riz de la veille, et aucune idée pour les marier. Liés avec un œuf et un peu de fromage, ils deviennent des galettes dorées dehors et moelleuses dedans, parfaites avec une salade ou un yaourt aux herbes.",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "servings": 3,
+  "difficulty": "facile",
+  "ingredients": [
+    {
+      "quantity": "250 g",
+      "name": "riz cuit froid (environ 85 g cru)"
+    },
+    {
+      "quantity": "150 g",
+      "name": "maïs en grains, bien égoutté"
+    },
+    {
+      "quantity": "2",
+      "name": "œufs"
+    },
+    {
+      "quantity": "50 g",
+      "name": "fromage râpé"
+    },
+    {
+      "quantity": "3 c. à soupe",
+      "name": "farine"
+    },
+    {
+      "quantity": "1",
+      "name": "oignon nouveau ou petit oignon haché finement"
+    },
+    {
+      "quantity": "1 c. à café",
+      "name": "paprika doux"
+    },
+    {
+      "quantity": "3 c. à soupe",
+      "name": "huile pour la cuisson, sel et poivre"
+    }
+  ],
+  "steps": [
+    "Égoutte le maïs et sèche-le dans un torchon propre ou du papier absorbant : trop d'eau empêcherait les galettes de tenir.",
+    "Dans un saladier, mélange le riz froid, le maïs, l'oignon haché, le fromage, le paprika, du sel et du poivre.",
+    "Ajoute les œufs battus et la farine. Mélange jusqu'à obtenir une pâte épaisse qui se tient en boule dans la main.",
+    "Chauffe 1 c. à soupe d'huile dans une grande poêle à feu moyen.",
+    "Forme des galettes de la taille d'une paume avec une grosse cuillère, aplatis-les et dépose-les dans la poêle sans les serrer.",
+    "Fais cuire 4 à 5 minutes de chaque côté, sans les bouger avant de les retourner, jusqu'à ce qu'elles soient bien dorées. Renouvelle l'huile à chaque fournée.",
+    "Égoutte sur du papier absorbant et sers aussitôt, avec une salade verte ou une sauce au yaourt."
+  ],
+  "tips": [
+    "Utilise du riz de la veille : froid, il se tient mieux. Mets-le au frigo dans les 2 heures après cuisson et consomme-le sous 24 heures.",
+    "Si la pâte colle trop aux doigts, ajoute 1 c. à soupe de farine ; si elle s'effrite, ajoute un peu de fromage ou une cuillère de lait.",
+    "Le reste de la boîte de maïs se garde 2 à 3 jours au frigo, dans un bocal en verre plutôt que dans la boîte ouverte.",
+    "Les galettes cuites se congèlent à plat ; réchauffe-les à la poêle ou au four à 180 °C pendant 10 minutes."
+  ],
+  "variants": [
+    "Pas de fromage râpé : un morceau de fromage fondu ou 2 c. à soupe de parmesan font l'affaire.",
+    "Pas de maïs en boîte : des petits pois cuits ou des dés de courgette bien pressés.",
+    "Envie de relever : ajoute une pincée de piment ou du cumin, ou une poignée de persil haché."
+  ],
+  "faq": [
+    {
+      "question": "Peut-on utiliser du riz tout juste cuit ?",
+      "answer": "Mieux vaut le laisser refroidir complètement, sinon la pâte reste molle et les galettes se défont à la cuisson."
+    },
+    {
+      "question": "Peut-on les cuire au four ?",
+      "answer": "Oui : dépose-les sur une plaque huilée et cuis-les 20 minutes à 200 °C en les retournant à mi-cuisson. Elles seront un peu moins croustillantes."
+    },
+    {
+      "question": "Comment les servir ?",
+      "answer": "Avec une salade, un œuf au plat ou du yaourt nature mélangé à des herbes, du sel et un filet de citron."
+    }
+  ],
+  "tools": [
+    "grande poêle",
+    "saladier"
+  ],
+  "slug": "galettes-de-riz-et-de-mais-a-la-poele-pretes-en-25-min",
+  "datePublished": "2026-11-28"
+}
